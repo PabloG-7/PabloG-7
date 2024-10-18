@@ -7,8 +7,6 @@
 
 ![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloG-7&theme=radical)
 
 ## 🌱 Projetos em destaque

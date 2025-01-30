@@ -33,20 +33,20 @@
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - *Tecnologias*: HTML, CSS, JavaScript.
 
-### [PetShop Lucic](https://github.com/PabloG-7/petshop-lucic)
-- Um projeto de PetShop com foco em frontend.
-- *Tecnologias*: HTML, CSS.
+### [PetShop LuckPet](https://github.com/PabloG-7/petshop-LuckPet)
+- Um projeto de um PetShop.
+- *Tecnologias*: HTML, CSS, JavaScript, MYSQL, NodeJS.
 
 ### [Calculadora em JavaScript](https://github.com/PabloG-7/js-calculator)
-- Uma calculadora simples feita com JavaScript.
+- Uma calculadora simples.
 - *Tecnologias*: HTML, CSS, JavaScript.
 
 ---
 
 ## 📫 Como Me Encontrar
 
-- *Email*: hver833@gmail.com
-- *LinkedIn*: [linkedin.com/in/pablo-omnes](https://www.linkedin.com/in/pablo-omnes)
+- *Email*: pablooliver853@gmail.com
+- *LinkedIn*: [linkedin.com/in/pablo-omnes](https://www.linkedin.com/in/pablogomess/)
 - *GitHub*: [github.com/PabloG-7](https://github.com/PabloG-7)
 
 ---

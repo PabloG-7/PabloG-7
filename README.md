@@ -46,7 +46,7 @@
 ## 📫 Como Me Encontrar
 
 - *Email*: pablooliver853@gmail.com
-- *LinkedIn*: [linkedin.com/in/pablo-omnes](https://www.linkedin.com/in/pablogomess/)
+- *LinkedIn*: [linkedin.com/in/pablo-gomes](https://www.linkedin.com/in/pablogomess/)
 - *GitHub*: [github.com/PabloG-7](https://github.com/PabloG-7)
 
 ---

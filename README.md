@@ -29,15 +29,15 @@
 - Um backend em Node.js e MySQL para gerenciar usuários e comentários.
 - *Tecnologias*: Node.js, Express, MySQL.
 
-### [Portfolio 2025](https://github.com/PabloG-7/portfolio-2025)
+### [Portfolio 2025](https://pablog-7.github.io/meu-portifolio/)
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - *Tecnologias*: HTML, CSS, JavaScript.
 
-### [PetShop LuckPet](https://github.com/PabloG-7/petshop-LuckPet)
+### [PetShop LuckPet](https://pablog-7.github.io/ecommerce-luckpet/)
 - Um projeto de um PetShop.
 - *Tecnologias*: HTML, CSS, JavaScript, MYSQL, NodeJS.
 
-### [Calculadora em JavaScript](https://github.com/PabloG-7/js-calculator)
+### [Calculadora em JavaScript](https://pablog-7.github.io/calculadora/)
 - Uma calculadora simples.
 - *Tecnologias*: HTML, CSS, JavaScript.
 

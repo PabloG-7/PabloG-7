@@ -33,12 +33,12 @@
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - *Tecnologias*: HTML, CSS, JavaScript.
 
-### [PetShop LuckPet](https://pablog-7.github.io/ecommerce-luckpet/)
+### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
 - Um projeto de um PetShop.
-- *Tecnologias*: HTML, CSS, JavaScript, MYSQL, NodeJS.
+- *Tecnologias*: HTML, CSS, JavaScript.
 
-### [Calculadora em JavaScript](https://pablog-7.github.io/calculadora/)
-- Uma calculadora simples.
+### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
+- E-commerce especializado em moda masculina e feminina.
 - *Tecnologias*: HTML, CSS, JavaScript.
 
 ---

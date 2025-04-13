@@ -61,7 +61,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca 
 
 - 🎮 Gosto de jogos e sou fã de RPGs.
 - 📚 Adoro ler sobre tecnologia e desenvolvimento pessoal.
-- 🚴‍♂ Nas horas vagas, gosto de pedalar e explorar novos lugares.
+- 🚴‍♂ Nas horas vagas, gosto de programar e explorar novos lugares.
 
 ---
 

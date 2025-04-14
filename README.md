@@ -1,75 +1,48 @@
-# Olá, eu sou o Pablo Gomes de Oliveira! 👋
+# 👋 Olá, eu sou Pablo Gomes de Oliveira!
 
-### Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas 🚀
+🚀 Desenvolvedor Full Stack em Formação | Análise e Desenvolvimento de Sistemas
 
----
+💡 Apaixonado por criar soluções tecnológicas que impactam vidas
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Habilidades
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔥 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [UserFlow Backend](link) | Backend para gerenciamento de usuários | Node.js, Express, MySQL |
+| [LuckPet](link) | Sistema para PetShop | HTML, CSS, JavaScript |
+| [Portfólio 2025](link) | Meu portfólio pessoal | HTML, CSS, JavaScript |
 
 ## 📊 Estatísticas do GitHub
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical) |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pabloG-7&show_icons=true&theme=radical)
 
----
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloG-7&layout=compact&theme=radical)
 
-## 🚀 Projetos em Destaque
+## 🌍 Onde Me Encontrar
 
-### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
-- Um backend em Node.js e MySQL para gerenciar usuários e comentários.
-- *Tecnologias*: Node.js, Express, MySQL.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-games)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloolver853@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/pabloG-7)
 
-### [Portfolio 2025](https://pablog-7.github.io/meu-portifolio/)
-- Meu portfólio pessoal, mostrando meus projetos e habilidades.
-- *Tecnologias*: HTML, CSS, JavaScript.
+## 💡 Curiosidades
 
-### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
-- Um projeto de um PetShop.
-- *Tecnologias*: HTML, CSS, JavaScript.
+- 🎮 Viciado em RPGs e jogos de estratégia
+- 📚 Leitor ávido sobre tecnologia e desenvolvimento pessoal
+- ✈️ Amo explorar novos lugares e culturas
 
-### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
-- E-commerce especializado em moda masculina e feminina.
-- *Tecnologias*: HTML, CSS, JavaScript.
-
----
-
-## 📫 Como Me Encontrar
-
-- *Email*: pablooliver853@gmail.com
-- *LinkedIn*: [linkedin.com/in/pablo-gomes](https://www.linkedin.com/in/pablogomess/)
-- *GitHub*: [github.com/PabloG-7](https://github.com/PabloG-7)
-- *Portfólio*: [github.com/PabloG-7](https://pablog-7.github.io/meu-portifolio/)
-
----
-
-## 🌟 Sobre Mim
-
-Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.
-
----
-
-## 📌 Curiosidades
-
-- 🎮 Gosto de jogos e sou fã de RPGs.
-- 📚 Adoro ler sobre tecnologia e desenvolvimento pessoal.
-- 🚴‍♂ Nas horas vagas, gosto de programar e explorar novos lugares.
-
----
-
-## 💡 Inspiração
-
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
-
----
-
-Feito com ❤ por [Pablo Gomes de Oliveira](https://github.com/PabloG-7)
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia" - Robert Collier

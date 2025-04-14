@@ -4,6 +4,10 @@
 
 ---
 
+<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-linkedin.png?raw=true" alt="Banner" style="width:100%;"/>
+
+---
+
 ## 🌟 Sobre Mim
 
 👨‍💻Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.

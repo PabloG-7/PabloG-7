@@ -48,6 +48,7 @@
 - *Email*: pablooliver853@gmail.com
 - *LinkedIn*: [linkedin.com/in/pablo-gomes](https://www.linkedin.com/in/pablogomess/)
 - *GitHub*: [github.com/PabloG-7](https://github.com/PabloG-7)
+- *Portfólio*: [github.com/PabloG-7](https://pablog-7.github.io/meu-portifolio/)
 
 ---
 

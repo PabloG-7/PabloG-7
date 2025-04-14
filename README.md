@@ -4,6 +4,11 @@
 
 ---
 
+## 🌟 Sobre Mim
+
+Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.
+
+---
 ## 🛠 Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,12 +54,6 @@
 - LinkedIn: [linkedin.com/in/pablo-gomes](https://www.linkedin.com/in/pablogomess/)
 - GitHub: [github.com/PabloG-7](https://github.com/PabloG-7)
 - Portfólio: [github.com/PabloG-7](https://pablog-7.github.io/meu-portifolio/)
-
----
-
-## 🌟 Sobre Mim
-
-Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.
 
 ---
 

@@ -2,10 +2,6 @@
 
 ### Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas 🚀
 
-
-<p align="center">
-  <img src="https://www.canva.com/design/DAGkoEc-IhY/nxVLTRHgVeEqj-pADTOvrw/view?utm_content=DAGkoEc-IhY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc30dd91752" alt="Banner Pablo Gomes" width="100%"/>
-</p>
 ---
 
 ## 🌟 Sobre Mim

@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7-projects&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7-projects&layout=compact&langs_count=7&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 

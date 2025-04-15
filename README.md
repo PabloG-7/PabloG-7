@@ -4,15 +4,16 @@
 
 ---
 
-<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-github.png?raw=true" alt="Banner" style="width:100%;"/>
-
----
-
 ## 🌟 Sobre Mim
 
 👨‍💻Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.
 
 ---
+
+<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-github.png?raw=true" alt="Banner" style="width:100%;"/>
+
+---
+
 ## 🛠 Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

@@ -1,6 +1,6 @@
 # Olá, eu sou o Pablo Gomes de Oliveira! 👋
 
-### 🎓 Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas }
+### 🎓 Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas
 
 ---
 

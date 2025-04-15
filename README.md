@@ -29,16 +29,16 @@
 
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,mysql,git,github" />
-</div>
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical) |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7s-projects&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7s-projects&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
 
 ---
 

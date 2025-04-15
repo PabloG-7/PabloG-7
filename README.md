@@ -14,18 +14,19 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que Domino
+## 🚀 Tecnologias que movem meus projetos
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+💛 **JavaScript** – Minha principal linguagem para front e back-end.  
+🟢 **Node.js** – Para criar APIs modernas e performáticas.  
+🧡 **HTML5** – Estrutura de páginas web com semântica.  
+💙 **CSS3** – Estilização responsiva e animações.  
+🔵 **MySQL** – Banco de dados relacional para meus sistemas.  
+🔧 **Git** – Controle de versão dos meus projetos.  
+🖤 **GitHub** – Hospedagem e colaboração em código.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,mysql,git,github" />
 </div>
-
 
 ---
 

@@ -1,12 +1,14 @@
 # Olá, eu sou o Pablo Gomes de Oliveira! 👋
 
-### 🥇 Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas
+### 🎓 Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas }
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 Sobre Mim 
 
-👨‍💻Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas.
+{
+👨‍💻 Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou explorando o mundo full-stack e contribuindo para projetos open-source. Meu objetivo é me tornar um desenvolvedor completo e criar soluções que impactem positivamente a vida das pessoas. 
+}
 
 ---
 
@@ -14,7 +16,7 @@
 
 ---
 
-## 🧠 Conhecimentos que estou dominando e evoluindo
+## 🧠 Conhecimentos que estou dominando e evoluindo 
 
 <div style="display:flex; flex-wrap: wrap; gap: 5px;">
 
@@ -36,7 +38,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque {
 
 ### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
 - Um backend em Node.js e MySQL para gerenciar usuários e comentários.
@@ -53,6 +55,7 @@
 ### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
 - E-commerce especializado em moda masculina e feminina.
 - Tecnologias: HTML, CSS, JavaScript.
+}
 
 ---
 
@@ -65,7 +68,7 @@
 
 ---
 
-## 📌 Curiosidades
+## 📌 Curiosidades {}
 
 - 🎮 Gosto de jogos e sou fã de RPGs.
 - 📚 Adoro ler sobre tecnologia e desenvolvimento pessoal.

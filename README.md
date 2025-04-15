@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-github.png?raw=true" alt="Banner" style="width:100%;"/>
+<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-github2.png?raw=true" alt="Banner" style="width:100%;"/>
 
 ---
 

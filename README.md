@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Linguagens e Tecnologias que aprendi e estou estudando
+## 🧠 Conhecimentos que estou dominando e evoluindo
 
 <div style="display:flex; flex-wrap: wrap; gap: 5px;">
 

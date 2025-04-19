@@ -1,11 +1,10 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<h1 align="center">Bem-vindo ao meu GitHub</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/about_me.gif" width="250" alt="Ícone de Desenvolvedor">
+</p>
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá, Desenvolvedor em Formação!+👋;" />
-</div>
+<h3 align="center">Olá! Seja bem-vindo! </h
 
 ## 🌟 Sobre Mim <=
 

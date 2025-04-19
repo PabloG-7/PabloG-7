@@ -18,10 +18,6 @@
 </div>
 <br>
 
-<img src="https://github.com/PabloG-7/PabloG-7/blob/main/banner-github.png?raw=true" alt="Banner" style="width:100%;"/>
-
----
-
 ## 🧠 Conhecimentos que estou dominando e evoluindo
 
 <div style="display:flex; flex-wrap: wrap; gap: 5px;">
@@ -37,12 +33,20 @@
 
 </div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple"/>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 🚀 Projetos em Destaque {
 
@@ -63,7 +67,11 @@
 - Tecnologias: HTML, CSS, JavaScript.
 }
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 📫 Como Me Encontrar }
 
@@ -72,7 +80,11 @@
 - GitHub: [github.com/PabloG-7](https://github.com/PabloG-7)
 - Portfólio: [github.com/PabloG-7](https://pablog-7.github.io/meu-portifolio/)
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 📌 Curiosidades {}
 
@@ -80,12 +92,20 @@
 - 📚 Adoro ler sobre tecnologia e desenvolvimento pessoal.
 - 🚴‍♂ Nas horas vagas, gosto de programar e explorar novos lugares.
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 💡 Inspiração
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 Feito com ❤ por [Pablo Gomes de Oliveira](https://github.com/PabloG-7)

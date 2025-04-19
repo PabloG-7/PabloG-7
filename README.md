@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="Boas-vindas" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome100.svg" /></a>
+<a href="#"><img align="left" alt="Boas-vindas" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/Welcome100.svg" /></a>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">

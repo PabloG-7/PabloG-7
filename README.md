@@ -61,12 +61,12 @@
 - Tecnologias: Node.js, Express, MySQL.
 
 ### [Portfolio 2025](https://pablog-7.github.io/meu-portifolio/)
-[![Portfolio 2025](https://github.com/PabloG-7/meu-portifolio/raw/main/portfolio-ft.png)](https://pablog-7.github.io/meu-portifolio/)
+[![Portfolio 2025](https://github.com/PabloG-7/meu-portifolio/raw/main/portfolio.png)](https://pablog-7.github.io/meu-portifolio/)
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - Tecnologias: HTML, CSS, JavaScript.
 
 ### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
-[![LuckPet](https://github.com/PabloG-7/ecommerce-luckpet/raw/main/luckpet-ft.png)](https://pablog-7.github.io/ecommerce-luckpet/)
+[![LuckPet](https://github.com/PabloG-7/ecommerce-luckpet/raw/main/luckpet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
 - Um projeto de um PetShop.
 - Tecnologias: HTML, CSS, JavaScript.
 

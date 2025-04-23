@@ -56,7 +56,7 @@
 ## 🚀 Projetos em Destaque {
 
 ### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
-[![UserFlow Backend](https://github.com/PabloG-7/userflow-backend/raw/main/userflow-ft.png)](https://github.com/PabloG-7/userflow-backend)
+[![UserFlow Backend](https://github.com/PabloG-7/userflow-backend/userflow-ft.png)](https://github.com/PabloG-7/userflow-backend)
 - Um backend em Node.js e MySQL para gerenciar usuários e comentários.
 - Tecnologias: Node.js, Express, MySQL.
 

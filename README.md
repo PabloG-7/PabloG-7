@@ -86,8 +86,8 @@
       <b>Kushi - E-commerce de Moda</b><br>
       Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
-      🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a><br>
       🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a>
+      🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a>
     </td>
   </tr>
 </table>

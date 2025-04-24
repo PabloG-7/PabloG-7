@@ -18,7 +18,7 @@
 </div>
 <br>
 
-## 🧠 Conhecimentos que estou dominando e evoluindo
+## 🧠 Conhecimentos que estou dominando e evoluindo {}
 
 <p align="center" style="margin-top:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -62,7 +62,7 @@
       <b>UserFlow Backend</b><br>
       Backend em Node.js e MySQL para gerenciar usuários e comentários.<br>
       <i>Tecnologias: Node.js, Express, MySQL.</i>
-      🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a>
+      🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a> - 
       🔗 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Código</a>
     </td>
   </tr>
@@ -72,7 +72,7 @@
       <b>Portfolio 2025</b><br>
       Meu portfólio pessoal, mostrando projetos e habilidades.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
-      🌐 <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">Ver Site</a>
+      🌐 <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">Ver Site</a> - 
       🔗 <a href="https://github.com/PabloG-7/meu-portifolio" target="_blank">Ver Código</a>
     </td>
   </tr>
@@ -82,7 +82,7 @@
       <b>LuckPet - PetShop</b><br>
       Um projeto completo de e-commerce para PetShop.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
-      🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a>
+      🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a> - 
       🔗 <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">Ver Código</a>
     </td>
   </tr>
@@ -92,7 +92,7 @@
       <b>Kushi - E-commerce de Moda</b><br>
       Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
-      🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a>
+      🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a> - 
       🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a>
     </td>
   </tr>

@@ -53,19 +53,42 @@
 </div>
 <br>
 
-<h3 align="center">🌟 Meus Projetos</h3>
+<h2 align="center">🚀 Projetos em Destaque {</h2>
 
-<p align="center">
-  <a href="https://github.com/PabloG-7/userflow-backend">
-    <img src="./userflow.png" width="250" />
-  </a>
-  <a href="https://pablog-7.github.io/new-portfolio/">
-    <img src="./portfolio.png" width="250" />
-  </a>
-  <a href="https://pablog-7.github.io/ecommerce-luckpet/">
-    <img src="./luckpet.png" width="250" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><img src="./userflow.png" width="300"/></td>
+    <td>
+      <b>UserFlow Backend</b><br>
+      Backend em Node.js e MySQL para gerenciar usuários e comentários.<br>
+      <i>Tecnologias: Node.js, Express, MySQL.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./portfolio.png" width="300"/></td>
+    <td>
+      <b>Portfolio 2025</b><br>
+      Meu portfólio pessoal, mostrando projetos e habilidades.<br>
+      <i>Tecnologias: HTML, CSS, JavaScript.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./luckpet.png" width="300"/></td>
+    <td>
+      <b>LuckPet - PetShop</b><br>
+      Um projeto completo de e-commerce para PetShop.<br>
+      <i>Tecnologias: HTML, CSS, JavaScript, Node.js, MySQL.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./kushi.png" width="300"/></td>
+    <td>
+      <b>Kushi - API de Comentários</b><br>
+      Uma API RESTful para gerenciamento de comentários com autenticação JWT.<br>
+      <i>Tecnologias: Node.js, Express, MySQL, JWT.</i>
+    </td>
+  </tr>
+</table>
 
 <br>
 <div align="center">
@@ -98,7 +121,7 @@
 </div>
 <br>
 
-## 💡 Inspiração
+## 💡 Inspiração ;}
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
 

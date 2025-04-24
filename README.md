@@ -55,17 +55,25 @@
 
 ## 🚀 Projetos em Destaque {
 
+<img src="./userflow.png" width="300"/>
+
 ### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
 - Um backend em Node.js e MySQL para gerenciar usuários e comentários.
 - Tecnologias: Node.js, Express, MySQL.
 
-### [Portfolio 2025](https://pablog-7.github.io/meu-portifolio/)
+<img src="./portfolio.png" width="300"/>
+
+### [Portfolio 2025](https://pablog-7.github.io/new-portfolio/)
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - Tecnologias: HTML, CSS, JavaScript.
+
+<img src="./luckpet.png" width="300"/>
 
 ### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
 - Um projeto de um PetShop.
 - Tecnologias: HTML, CSS, JavaScript.
+
+<img src="./kushi.png" width="300"/>
 
 ### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
 - E-commerce especializado em moda masculina e feminina.

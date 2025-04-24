@@ -53,31 +53,33 @@
 </div>
 <br>
 
-## 🚀 Projetos em Destaque {
+<h3 align="center">✨ Projetos em Destaque</h3>
 
-<img src="./userflow.png" width="300"/>
+<div align="center">
 
-### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
-- Um backend em Node.js e MySQL para gerenciar usuários e comentários.
-- Tecnologias: Node.js, Express, MySQL.
+<img src="./userflow.png" width="400"/>
 
-<img src="./portfolio.png" width="300"/>
+**[UserFlow Backend](https://github.com/PabloG-7/userflow-backend)**  
+Um backend em Node.js e MySQL para gerenciar usuários e comentários.  
+Tecnologias: Node.js, Express, MySQL.
 
-### [Portfolio 2025](https://pablog-7.github.io/new-portfolio/)
-- Meu portfólio pessoal, mostrando meus projetos e habilidades.
-- Tecnologias: HTML, CSS, JavaScript.
+<br><br>
 
-<img src="./luckpet.png" width="300"/>
+<img src="./portfolio.png" width="400"/>
 
-### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
-- Um projeto de um PetShop.
-- Tecnologias: HTML, CSS, JavaScript.
+**[Portfolio 2025](https://pablog-7.github.io/new-portfolio/)**  
+Meu portfólio pessoal, mostrando meus projetos e habilidades.  
+Tecnologias: HTML, CSS, JavaScript.
 
-<img src="./kushi.png" width="300"/>
+<br><br>
 
-### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
-- E-commerce especializado em moda masculina e feminina.
-- Tecnologias: HTML, CSS, JavaScript.
+<img src="./luckpet.png" width="400"/>
+
+**[LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)**  
+Projeto de e-commerce focado em produtos para pets.  
+Tecnologias: HTML, CSS, JavaScript.
+
+</div>
 
 <br>
 <div align="center">

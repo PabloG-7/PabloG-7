@@ -53,33 +53,32 @@
 </div>
 <br>
 
-<h3 align="center">✨ Projetos em Destaque</h3>
-
-<div align="center">
-
-<img src="./userflow.png" width="400"/>
-
-**[UserFlow Backend](https://github.com/PabloG-7/userflow-backend)**  
-Um backend em Node.js e MySQL para gerenciar usuários e comentários.  
-Tecnologias: Node.js, Express, MySQL.
-
-<br><br>
-
-<img src="./portfolio.png" width="400"/>
-
-**[Portfolio 2025](https://pablog-7.github.io/new-portfolio/)**  
-Meu portfólio pessoal, mostrando meus projetos e habilidades.  
-Tecnologias: HTML, CSS, JavaScript.
-
-<br><br>
-
-<img src="./luckpet.png" width="400"/>
-
-**[LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)**  
-Projeto de e-commerce focado em produtos para pets.  
-Tecnologias: HTML, CSS, JavaScript.
-
-</div>
+<table>
+  <tr>
+    <td><img src="./userflow.png" width="300"/></td>
+    <td>
+      <b>[UserFlow Backend](https://github.com/PabloG-7/userflow-backend)</b><br>
+      Backend com Node.js e MySQL para gerenciar usuários e comentários.<br>
+      <i>Tecnologias: Node.js, Express, MySQL.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./portfolio.png" width="300"/></td>
+    <td>
+      <b>[Portfolio 2025](https://pablog-7.github.io/new-portfolio/)</b><br>
+      Meu portfólio pessoal, com projetos e habilidades.<br>
+      <i>Tecnologias: HTML, CSS, JavaScript.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./luckpet.png" width="300"/></td>
+    <td>
+      <b>[LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)</b><br>
+      Um e-commerce pet com layout moderno.<br>
+      <i>Tecnologias: HTML, CSS, JavaScript.</i>
+    </td>
+  </tr>
+</table>
 
 <br>
 <div align="center">

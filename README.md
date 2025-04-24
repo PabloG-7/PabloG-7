@@ -77,15 +77,17 @@
     <td>
       <b>LuckPet - PetShop</b><br>
       Um projeto completo de e-commerce para PetShop.<br>
-      <i>Tecnologias: HTML, CSS, JavaScript, Node.js, MySQL.</i>
+      <i>Tecnologias: HTML & CSS, JavaScript.</i>
     </td>
   </tr>
   <tr>
     <td><img src="./kushi.png" width="300"/></td>
     <td>
-      <b>Kushi - API de Comentários</b><br>
-      Uma API RESTful para gerenciamento de comentários com autenticação JWT.<br>
-      <i>Tecnologias: Node.js, Express, MySQL, JWT.</i>
+      <b>Kushi - E-commerce de Moda</b><br>
+      Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.<br>
+      <i>Tecnologias: HTML & CSS, JavaScript.</i>
+      🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a><br>
+      🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a>
     </td>
   </tr>
 </table>

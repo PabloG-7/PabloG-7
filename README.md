@@ -62,6 +62,8 @@
       <b>UserFlow Backend</b><br>
       Backend em Node.js e MySQL para gerenciar usuários e comentários.<br>
       <i>Tecnologias: Node.js, Express, MySQL.</i>
+      🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a>
+      🔗 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Código</a>
     </td>
   </tr>
   <tr>
@@ -69,7 +71,9 @@
     <td>
       <b>Portfolio 2025</b><br>
       Meu portfólio pessoal, mostrando projetos e habilidades.<br>
-      <i>Tecnologias: HTML, CSS, JavaScript.</i>
+      <i>Tecnologias: HTML & CSS, JavaScript.</i>
+      🌐 <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">Ver Site</a>
+      🔗 <a href="https://github.com/PabloG-7/meu-portifolio" target="_blank">Ver Código</a>
     </td>
   </tr>
   <tr>
@@ -78,6 +82,8 @@
       <b>LuckPet - PetShop</b><br>
       Um projeto completo de e-commerce para PetShop.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
+      🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a>
+      🔗 <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">Ver Código</a>
     </td>
   </tr>
   <tr>

@@ -56,22 +56,18 @@
 ## 🚀 Projetos em Destaque {
 
 ### [UserFlow Backend](https://github.com/PabloG-7/userflow-backend)
-[![UserFlow Backend](https://raw.githubusercontent.com/PabloG-7/user-flow-backend/main/user-flow-ft.png)
 - Um backend em Node.js e MySQL para gerenciar usuários e comentários.
 - Tecnologias: Node.js, Express, MySQL.
 
 ### [Portfolio 2025](https://pablog-7.github.io/meu-portifolio/)
-[![Portfolio 2025](https://github.com/PabloG-7/meu-portifolio/raw/main/portfolio.png)](https://pablog-7.github.io/meu-portifolio/)
 - Meu portfólio pessoal, mostrando meus projetos e habilidades.
 - Tecnologias: HTML, CSS, JavaScript.
 
 ### [LuckPet - PetShop](https://pablog-7.github.io/ecommerce-luckpet/)
-[![LuckPet](https://github.com/PabloG-7/ecommerce-luckpet/raw/main/luckpet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
 - Um projeto de um PetShop.
 - Tecnologias: HTML, CSS, JavaScript.
 
 ### [Kushi - Moda](https://pablog-7.github.io/ecommerce-kushi/)
-[![Kushi Moda](https://github.com/PabloG-7/ecommerce-kushi/raw/main/kushi-ft.png)](https://pablog-7.github.io/ecommerce-kushi/)
 - E-commerce especializado em moda masculina e feminina.
 - Tecnologias: HTML, CSS, JavaScript.
 

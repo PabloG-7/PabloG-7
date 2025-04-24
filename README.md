@@ -67,13 +67,13 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./portfolio.png" width="300"/></td>
+    <td><img src="./dashboards-preview.png" width="300"/></td>
     <td>
-      <b>Portfolio 2025</b><br>
-      Meu portfólio pessoal, mostrando projetos e habilidades.<br>
+      <b>Executive Insight Dashboard</b><br>
+      Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i>
-      🌐 <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">Ver Site</a> - 
-      🔗 <a href="https://github.com/PabloG-7/meu-portifolio" target="_blank">Ver Código</a>
+      🌐 <a href="https://pablog-7.github.io/executive-insight-dashboard/" target="_blank">Ver Site</a> - 
+      🔗 <a href="https://github.com/PabloG-7/executive-insight-dashboard" target="_blank">Ver Código</a>
     </td>
   </tr>
   <tr>

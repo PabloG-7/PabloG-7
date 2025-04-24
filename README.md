@@ -67,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./dashboards-preview.png" width="300"/></td>
+    <td><img src="./dashboard-preview.png" width="300"/></td>
     <td>
       <b>Executive Insight Dashboard</b><br>
       Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.<br>

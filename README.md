@@ -108,9 +108,9 @@
 
 ## 📫 Como Me Encontrar }
 
-<p align="center">
+<p align="left">
   <a href="mailto:pablooliver853@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
   </a>
   
   <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">

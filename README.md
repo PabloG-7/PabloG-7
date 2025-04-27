@@ -97,8 +97,8 @@
 </div>
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple)
 
 <br>
 <div align="center">

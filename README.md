@@ -109,16 +109,16 @@
 ## 📫 Como Me Encontrar }
 
 <p align="center">
-  <a href="mailto:pablooliver853@gmail.com" target="_blank">
+  <a href="mailto:pablooliver853@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/
 
 <br>
 <div align="center">

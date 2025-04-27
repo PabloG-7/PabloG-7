@@ -18,7 +18,7 @@
 </div>
 <br>
 
-## 🧠 Conhecimentos que estou dominando e evoluindo {}
+## 🧠 Conhecimentos que estou dominando e evoluindo
 
 <p align="center" style="margin-top:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   &nbsp;
@@ -106,10 +108,17 @@
 
 ## 📫 Como Me Encontrar }
 
-- Email: pablooliver853@gmail.com
-- LinkedIn: [linkedin.com/in/pablo-gomes](https://www.linkedin.com/in/pablogomess/)
-- GitHub: [github.com/PabloG-7](https://github.com/PabloG-7)
-- Portfólio: [github.com/PabloG-7](https://pablog-7.github.io/meu-portifolio/)
+<p align="center">
+  <a href="mailto:pablooliver853@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pablog-7.github.io/meu-portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 <br>
 <div align="center">

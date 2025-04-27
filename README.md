@@ -97,8 +97,13 @@
 </div>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple)
+<div style="display: flex; align-items: flex-end; height: 200px; width: 100%; border: 1px solid #ccc;">
+  <div style="width: 20%; height: 80%; background-color: #4caf50; margin-right: 10px;" title="React"></div>
+  <div style="width: 20%; height: 60%; background-color: #f44336; margin-right: 10px;" title="Node.js"></div>
+  <div style="width: 20%; height: 40%; background-color: #2196f3; margin-right: 10px;" title="CSS"></div>
+  <div style="width: 20%; height: 20%; background-color: #ffeb3b;" title="JavaScript"></div>
+</div>
+
 
 <br>
 <div align="center">

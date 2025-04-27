@@ -46,15 +46,6 @@
 </div>
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple"/>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
 <h2 align="center">🚀 Projetos em Destaque {</h2>
 
 <table>
@@ -99,6 +90,15 @@
     </td>
   </tr>
 </table>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablog-7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablog-7&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 <br>
 <div align="center">

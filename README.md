@@ -74,6 +74,17 @@
 
 ---
 
+### 🔴🟡 Pokedex
+[![Preview](./pokedex.png)](https://pokedex-eight-drab-61.vercel.app/)
+
+> Pokédex interativa com React consumindo PokéAPI. Busca, listagem paginada e detalhes completos de Pokémon.
+
+**Tecnologias:** `React` `Tailwind CSS` `JavaScript`
+
+🔗 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
+
+---
+
 ### 📊📈 Executive Insight Dashboard
 [![Preview](./dashboard-preview.png)](https://pablog-7.github.io/executive-insight-dashboard/)
 
@@ -82,17 +93,6 @@
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
 🔗 [Ver Site](https://pablog-7.github.io/executive-insight-dashboard/) | 💻 [Ver Código](https://github.com/PabloG-7/executive-insight-dashboard)
-
----
-
-### 📌 UserFlow Backend
-[![Preview](./userflow.png)](https://github.com/PabloG-7/userflow-backend)
-
-> Backend em Node.js e MySQL para gerenciar usuários e comentários.
-
-**Tecnologias:** `Node.js` `Express` `MySQL`
-
-🔗 [Ver Site](https://github.com/PabloG-7/userflow-backend) | 💻 [Ver Código](https://github.com/PabloG-7/userflow-backend)
 
 <br>
 <div align="center">

@@ -10,7 +10,7 @@
 
 ## 🌟 Sobre Mim <=
 
-= 👨‍💻 Eu sou um desenvolvedor Full-Stack
+- 👨‍💻 Eu sou um desenvolvedor Full-Stack
 - 🎓 Em formação de Análise e Desenvolvimento de Sistemas
 - 🎮 Gosto de jogos competitivos.
 - 📚 Adoro ler sobre tecnologia e desenvolvimento pessoal.
@@ -50,31 +50,20 @@
 </div>
 <br>
 
-## � Projetos em Destaque
+## Projetos em Destaque {
 
-### 📌 UserFlow Backend
-[![Preview](./userflow.png)](https://github.com/PabloG-7/userflow-backend)
+### 👕👗 Kushi - E-commerce de Moda
+[![Preview](./kushi.png)](https://pablog-7.github.io/ecommerce-kushi/)
 
-> Backend em Node.js e MySQL para gerenciar usuários e comentários.
-
-**Tecnologias:** `Node.js` `Express` `MySQL`
-
-🔗 [Ver Site](https://github.com/PabloG-7/userflow-backend) | 💻 [Ver Código](https://github.com/PabloG-7/userflow-backend)
-
----
-
-### 📊 Executive Insight Dashboard
-[![Preview](./dashboard-preview.png)](https://pablog-7.github.io/executive-insight-dashboard/)
-
-> Dashboard executivo moderno e responsivo para visualizações de dados impactantes.
+> E-commerce especializado em moda masculina e feminina.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [Ver Site](https://pablog-7.github.io/executive-insight-dashboard/) | 💻 [Ver Código](https://github.com/PabloG-7/executive-insight-dashboard)
+🔗 [Ver Site](https://pablog-7.github.io/ecommerce-kushi/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-kushi)
 
 ---
 
-### 🐶 LuckPet - PetShop
+### 🐶🐱 LuckPet - PetShop
 [![Preview](./luckpet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
 
 > Projeto completo de e-commerce para PetShop.
@@ -85,14 +74,25 @@
 
 ---
 
-### 👗 Kushi - E-commerce de Moda
-[![Preview](./kushi.png)](https://pablog-7.github.io/ecommerce-kushi/)
+### 📊📈 Executive Insight Dashboard
+[![Preview](./dashboard-preview.png)](https://pablog-7.github.io/executive-insight-dashboard/)
 
-> E-commerce especializado em moda masculina e feminina.
+> Dashboard executivo moderno e responsivo para visualizações de dados impactantes.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [Ver Site](https://pablog-7.github.io/ecommerce-kushi/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-kushi)
+🔗 [Ver Site](https://pablog-7.github.io/executive-insight-dashboard/) | 💻 [Ver Código](https://github.com/PabloG-7/executive-insight-dashboard)
+
+---
+
+### 📌 UserFlow Backend
+[![Preview](./userflow.png)](https://github.com/PabloG-7/userflow-backend)
+
+> Backend em Node.js e MySQL para gerenciar usuários e comentários.
+
+**Tecnologias:** `Node.js` `Express` `MySQL`
+
+🔗 [Ver Site](https://github.com/PabloG-7/userflow-backend) | 💻 [Ver Código](https://github.com/PabloG-7/userflow-backend)
 
 <br>
 <div align="center">

@@ -52,11 +52,11 @@
 
 <h2 align="center">🚀 Projetos em Destaque {</h2>
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 32px;">
 
-  <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="./userflow.png" style="width: 100%; max-width: 300px; height: auto; margin-right: 16px;">
-    <div>
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+    <img src="./userflow.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
+    <div style="flex: 1; min-width: 200px;">
       <b>UserFlow Backend</b><br>
       Backend em Node.js e MySQL para gerenciar usuários e comentários.<br>
       <i>Tecnologias: Node.js, Express, MySQL.</i><br>
@@ -65,9 +65,9 @@
     </div>
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="./dashboard-preview.png" style="width: 100%; max-width: 300px; height: auto; margin-right: 16px;">
-    <div>
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+    <img src="./dashboard-preview.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
+    <div style="flex: 1; min-width: 200px;">
       <b>Executive Insight Dashboard</b><br>
       Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i><br>
@@ -76,9 +76,9 @@
     </div>
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="./luckpet.png" style="width: 100%; max-width: 300px; height: auto; margin-right: 16px;">
-    <div>
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+    <img src="./luckpet.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
+    <div style="flex: 1; min-width: 200px;">
       <b>LuckPet - PetShop</b><br>
       Um projeto completo de e-commerce para PetShop.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i><br>
@@ -87,9 +87,9 @@
     </div>
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="./kushi.png" style="width: 100%; max-width: 300px; height: auto; margin-right: 16px;">
-    <div>
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+    <img src="./kushi.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
+    <div style="flex: 1; min-width: 200px;">
       <b>Kushi - E-commerce de Moda</b><br>
       Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.<br>
       <i>Tecnologias: HTML & CSS, JavaScript.</i><br>

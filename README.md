@@ -50,83 +50,49 @@
 </div>
 <br>
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+## � Projetos em Destaque
 
-<div class="projects-container">
+### 📌 UserFlow Backend
+[![Preview](./userflow.png)](https://github.com/PabloG-7/userflow-backend)
 
-<div class="project-card">
-  <div class="project-image">
-    <img src="./userflow.png" alt="UserFlow Backend"/>
-  </div>
-  <div class="project-details">
-    <h3>UserFlow Backend</h3>
-    <p>Backend em Node.js e MySQL para gerenciar usuários e comentários.</p>
-    <p class="tech"><i>Tecnologias: Node.js, Express, MySQL.</i></p>
-    <div class="project-links">
-      🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a> - 
-      🔗 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Código</a>
-    </div>
-  </div>
-</div>
+> Backend em Node.js e MySQL para gerenciar usuários e comentários.
 
-<div class="project-card">
-  <div class="project-image">
-    <img src="./dashboard-preview.png" alt="Executive Insight Dashboard"/>
-  </div>
-  <div class="project-details">
-    <h3>Executive Insight Dashboard</h3>
-    <p>Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.</p>
-    <p class="tech"><i>Tecnologias: HTML & CSS, JavaScript.</i></p>
-    <div class="project-links">
-      🌐 <a href="https://pablog-7.github.io/executive-insight-dashboard/" target="_blank">Ver Site</a> - 
-      🔗 <a href="https://github.com/PabloG-7/executive-insight-dashboard" target="_blank">Ver Código</a>
-    </div>
-  </div>
-</div>
+**Tecnologias:** `Node.js` `Express` `MySQL`
 
-<div class="project-card">
-  <div class="project-image">
-    <img src="./luckpet.png" alt="LuckPet - PetShop"/>
-  </div>
-  <div class="project-details">
-    <h3>LuckPet - PetShop</h3>
-    <p>Um projeto completo de e-commerce para PetShop.</p>
-    <p class="tech"><i>Tecnologias: HTML & CSS, JavaScript.</i></p>
-    <div class="project-links">
-      🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a> - 
-      🔗 <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">Ver Código</a>
-    </div>
-  </div>
-</div>
+🔗 [Ver Site](https://github.com/PabloG-7/userflow-backend) | 💻 [Ver Código](https://github.com/PabloG-7/userflow-backend)
 
-<div class="project-card">
-  <div class="project-image">
-    <img src="./kushi.png" alt="Kushi - E-commerce de Moda"/>
-  </div>
-  <div class="project-details">
-    <h3>Kushi - E-commerce de Moda</h3>
-    <p>Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.</p>
-    <p class="tech"><i>Tecnologias: HTML & CSS, JavaScript.</i></p>
-    <div class="project-links">
-      🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a> - 
-      🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a>
-    </div>
-  </div>
-</div>
+---
 
-</div>
+### 📊 Executive Insight Dashboard
+[![Preview](./dashboard-preview.png)](https://pablog-7.github.io/executive-insight-dashboard/)
 
-<style>
-.projects-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  padding: 1rem;
-}
+> Dashboard executivo moderno e responsivo para visualizações de dados impactantes.
 
-.project-card {
-  display: flex;
-  flex
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+🔗 [Ver Site](https://pablog-7.github.io/executive-insight-dashboard/) | 💻 [Ver Código](https://github.com/PabloG-7/executive-insight-dashboard)
+
+---
+
+### 🐶 LuckPet - PetShop
+[![Preview](./luckpet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
+
+> Projeto completo de e-commerce para PetShop.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+🔗 [Ver Site](https://pablog-7.github.io/ecommerce-luckpet/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-luckpet)
+
+---
+
+### 👗 Kushi - E-commerce de Moda
+[![Preview](./kushi.png)](https://pablog-7.github.io/ecommerce-kushi/)
+
+> E-commerce especializado em moda masculina e feminina.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+🔗 [Ver Site](https://pablog-7.github.io/ecommerce-kushi/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-kushi)
 
 <br>
 <div align="center">

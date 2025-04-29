@@ -52,53 +52,75 @@
 
 <h2 align="center">🚀 Projetos em Destaque {</h2>
 
-<div style="display: flex; flex-direction: column; gap: 32px;">
+<table>
+  <tr>
+    <td><img src="./userflow.png" width="300"/></td>
+    <td>
+      <h3 style="margin: 0 0 8px 0;">🚧 UserFlow Backend</h3>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Descrição:</strong> Backend em Node.js e MySQL para gerenciar usuários e comentários.
+      </p>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Tecnologias:</strong> Node.js, Express, MySQL
+      </p>
+      <p style="margin: 0;">
+        🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a> &nbsp;|&nbsp;
+        🔗 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Código</a>
+      </p>
+    </td>
+  </tr>
 
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-    <img src="./userflow.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
-    <div style="flex: 1; min-width: 200px;">
-      <b>UserFlow Backend</b><br>
-      Backend em Node.js e MySQL para gerenciar usuários e comentários.<br>
-      <i>Tecnologias: Node.js, Express, MySQL.</i><br>
-      🌐 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Site</a> -
-      🔗 <a href="https://github.com/PabloG-7/userflow-backend" target="_blank">Ver Código</a>
-    </div>
-  </div>
+  <tr>
+    <td><img src="./dashboard-preview.png" width="300"/></td>
+    <td>
+      <h3 style="margin: 0 0 8px 0;">📊 Executive Insight Dashboard</h3>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Descrição:</strong> Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.
+      </p>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Tecnologias:</strong> HTML & CSS, JavaScript
+      </p>
+      <p style="margin: 0;">
+        🌐 <a href="https://pablog-7.github.io/executive-insight-dashboard/" target="_blank">Ver Site</a> &nbsp;|&nbsp;
+        🔗 <a href="https://github.com/PabloG-7/executive-insight-dashboard" target="_blank">Ver Código</a>
+      </p>
+    </td>
+  </tr>
 
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-    <img src="./dashboard-preview.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
-    <div style="flex: 1; min-width: 200px;">
-      <b>Executive Insight Dashboard</b><br>
-      Um dashboard executivo moderno e responsivo, projetado para impressionar CEOs e gestores com visualizações de dados claras e impactantes.<br>
-      <i>Tecnologias: HTML & CSS, JavaScript.</i><br>
-      🌐 <a href="https://pablog-7.github.io/executive-insight-dashboard/" target="_blank">Ver Site</a> -
-      🔗 <a href="https://github.com/PabloG-7/executive-insight-dashboard" target="_blank">Ver Código</a>
-    </div>
-  </div>
+  <tr>
+    <td><img src="./luckpet.png" width="300"/></td>
+    <td>
+      <h3 style="margin: 0 0 8px 0;">🐾 LuckPet - PetShop</h3>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Descrição:</strong> Um projeto completo de e-commerce para PetShop.
+      </p>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Tecnologias:</strong> HTML & CSS, JavaScript
+      </p>
+      <p style="margin: 0;">
+        🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a> &nbsp;|&nbsp;
+        🔗 <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">Ver Código</a>
+      </p>
+    </td>
+  </tr>
 
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-    <img src="./luckpet.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
-    <div style="flex: 1; min-width: 200px;">
-      <b>LuckPet - PetShop</b><br>
-      Um projeto completo de e-commerce para PetShop.<br>
-      <i>Tecnologias: HTML & CSS, JavaScript.</i><br>
-      🌐 <a href="https://pablog-7.github.io/ecommerce-luckpet/" target="_blank">Ver Site</a> -
-      🔗 <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">Ver Código</a>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-    <img src="./kushi.png" style="flex: 0 0 280px; width: 100%; height: auto; border-radius: 8px;">
-    <div style="flex: 1; min-width: 200px;">
-      <b>Kushi - E-commerce de Moda</b><br>
-      Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.<br>
-      <i>Tecnologias: HTML & CSS, JavaScript.</i><br>
-      🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a> -
-      🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a>
-    </div>
-  </div>
-
-</div>
+  <tr>
+    <td><img src="./kushi.png" width="300"/></td>
+    <td>
+      <h3 style="margin: 0 0 8px 0;">🛍️ Kushi - E-commerce de Moda</h3>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Descrição:</strong> Site de e-commerce especializado em moda masculina e feminina, com foco em estilo, qualidade e descontos sazonais.
+      </p>
+      <p style="margin: 0 0 6px 0;">
+        <strong>Tecnologias:</strong> HTML & CSS, JavaScript
+      </p>
+      <p style="margin: 0;">
+        🌐 <a href="https://pablog-7.github.io/ecommerce-kushi/" target="_blank">Ver Site</a> &nbsp;|&nbsp;
+        🔗 <a href="https://github.com/PabloG-7/ecommerce-kushi" target="_blank">Ver Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 <div align="center">

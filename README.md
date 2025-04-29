@@ -53,7 +53,7 @@
 ## Projetos em Destaque {
 
 ### 👕👗 Kushi - E-commerce de Moda
-[![Preview](./kushi.png)](https://pablog-7.github.io/ecommerce-kushi/)
+[![Preview](./kushi-moda.png)](https://pablog-7.github.io/ecommerce-kushi/)
 
 > E-commerce especializado em moda masculina e feminina.
 

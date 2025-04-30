@@ -53,7 +53,7 @@
 ## Projetos em Destaque {
 
 ### 👕👗 Kushi - E-commerce de Moda
-[![Preview](./kushi-moda.png)](https://pablog-7.github.io/ecommerce-kushi/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/kushi-moda.png)](https://pablog-7.github.io/ecommerce-kushi/)
 
 > E-commerce especializado em moda masculina e feminina.
 
@@ -64,7 +64,7 @@
 ---
 
 ### 🐶🐱 LuckPet - PetShop
-[![Preview](./luckpet-pet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-pet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
 
 > Projeto completo de e-commerce para PetShop.
 
@@ -75,7 +75,7 @@
 ---
 
 ### 🔴🟡 Pokedex
-[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex.png)](...))](https://pokedex-eight-drab-61.vercel.app/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex.png)](https://pokedex-eight-drab-61.vercel.app/)
 
 > Pokédex interativa com React consumindo PokéAPI. Busca, listagem paginada e detalhes completos de Pokémon.
 
@@ -86,7 +86,7 @@
 ---
 
 ### 📊📈 Executive Insight Dashboard
-[![Preview](./dashboard-ceo.png)](https://pablog-7.github.io/executive-insight-dashboard/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/dashboard-ceo.png)](https://pablog-7.github.io/executive-insight-dashboard/)
 
 > Dashboard executivo moderno e responsivo para visualizações de dados impactantes.
 

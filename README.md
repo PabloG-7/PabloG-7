@@ -75,7 +75,7 @@
 ---
 
 ### 🔴🟡 Pokedex
-[![Preview](./images/pokedex.png)](...))](https://pokedex-eight-drab-61.vercel.app/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex.png)](...))](https://pokedex-eight-drab-61.vercel.app/)
 
 > Pokédex interativa com React consumindo PokéAPI. Busca, listagem paginada e detalhes completos de Pokémon.
 

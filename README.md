@@ -95,6 +95,7 @@
 
 🔗 [Ver Site](https://pablog-7.github.io/executive-insight-dashboard/) | 💻 [Ver Código](https://github.com/PabloG-7/executive-insight-dashboard)
 
+
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />

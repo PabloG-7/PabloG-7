@@ -87,7 +87,7 @@
 ---
 
 ### 📊📈 Executive Insight Dashboard
-[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/dashboard-ceo.png)](https://pablog-7.github.io/executive-insight-dashboard/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/dashboard-ceo.png)](https://pablog-7.github.io/executive-insight-dashboard/)
 
 > Dashboard executivo moderno e responsivo para visualizações de dados impactantes.
 

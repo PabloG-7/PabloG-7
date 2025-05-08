@@ -65,7 +65,7 @@
 ---
 
 ### 🐶🐱 LuckPet - PetShop
-[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/Captura%20de%20tela%202025-05-07%20205026.png)](https://pablog-7.github.io/ecommerce-luckpet/)
+[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet.png)](https://pablog-7.github.io/ecommerce-luckpet/)
 
 > Projeto completo de e-commerce para PetShop.
 

@@ -54,7 +54,10 @@
 ## Projetos em Destaque {
 
 ### 👕👗 Kushi - E-commerce de Moda
-[![Preview](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/kushi-apresenta%C3%A7ao.png)](https://pablog-7.github.io/ecommerce-kushi/)
+
+<a href="https://pablog-7.github.io/ecommerce-kushi/">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/kushi-apresenta%C3%A7ao.png" width="700" alt="Preview Kushi">
+</a>
 
 > E-commerce especializado em moda masculina e feminina.
 
@@ -66,11 +69,9 @@
 
 ### 🐶🐱 LuckPet - PetShop
 
-<p align="center">
-  <a href="https://pablog-7.github.io/ecommerce-luckpet/">
-    <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" width="700" alt="Preview LuckPet">
-  </a>
-</p>
+<a href="https://pablog-7.github.io/ecommerce-luckpet/">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" width="700" alt="Preview LuckPet">
+</a>
 
 > Projeto completo de e-commerce para PetShop.
 

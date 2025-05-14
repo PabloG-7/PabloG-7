@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/kushi-apresenta%C3%A7ao.png" width="700" alt="Preview Kushi">
 </a>
 
-> E-commerce especializado em moda masculina e feminina.
+# > E-commerce especializado em moda masculina e feminina.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" width="700" alt="Preview LuckPet">
 </a>
 
-> Projeto completo de e-commerce para PetShop.
+# > Projeto completo de e-commerce para PetShop.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 

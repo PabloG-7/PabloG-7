@@ -68,7 +68,7 @@
 ### 🐶🐱 LuckPet - PetShop
 > Projeto completo de e-commerce para PetShop.
 <a href="https://pablog-7.github.io/ecommerce-luckpet/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" width="1000" alt="Preview LuckPet">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" alt="Preview LuckPet">
 </a>
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`

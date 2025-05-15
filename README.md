@@ -53,22 +53,22 @@
 
 ## Projetos em Destaque {
 
-### 👕👗 Kushi - E-commerce de Moda
-> E-commerce especializado em moda masculina e feminina.
-<a href="https://pablog-7.github.io/ecommerce-kushi/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/kushi-apresenta%C3%A7ao.png" width="700" alt="Preview Kushi">
+### 🔵🔴 Inabalavel - Fictício
+> Inabalável é um site fictício que apresenta um universo épico de fantasia, onde o conflito entre luz e trevas ganha vida através de duas figuras arquetípicas.
+<a href="https://pablog-7.github.io/inabalavel-heroi-vilao/">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/inabalavel-apresentacao.png" alt="Preview Inabalavel">
 </a>
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [Ver Site](https://pablog-7.github.io/ecommerce-kushi/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-kushi)
+🔗 [Ver Site](https://pablog-7.github.io/inabalavel-heroi-vilao/) | 💻 [Ver Código](https://github.com/PabloG-7/inabalavel-heroi-vilao)
 
 ---
 
 ### 🐶🐱 LuckPet - PetShop
 > Projeto completo de e-commerce para PetShop.
 <a href="https://pablog-7.github.io/ecommerce-luckpet/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" width="700" alt="Preview LuckPet">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-apresenta%C3%A7ao.png" alt="Preview LuckPet">
 </a>
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`

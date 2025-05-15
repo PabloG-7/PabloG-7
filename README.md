@@ -53,6 +53,18 @@
 
 ## Projetos em Destaque {
 
+### 🌟💥 Pokédex - Pokémon
+> Uma Pokédex interativa construída com React e PokéAPI, com design moderno e responsivo para explorar o mundo Pokémon.
+<a href="https://pokedex-eight-drab-61.vercel.app/">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex-apresentacao.png" alt="Preview Pokédex">
+</a>
+
+**Tecnologias:** `React` `Tailwind CSS` `JavaScript`
+
+🔗 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
+
+---
+
 ### 🔵🔴 Inabalavel - Fictício
 > Inabalável é um site fictício que apresenta um universo épico de fantasia, onde o conflito entre luz e trevas ganha vida através de duas figuras arquetípicas.
 <a href="https://pablog-7.github.io/inabalavel-heroi-vilao/">

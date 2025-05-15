@@ -61,7 +61,7 @@
 
 **Tecnologias:** `React` `Tailwind CSS` `JavaScript`
 
-🔗 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
+🌐 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [Ver Site](https://pablog-7.github.io/inabalavel-heroi-vilao/) | 💻 [Ver Código](https://github.com/PabloG-7/inabalavel-heroi-vilao)
+🌐 [Ver Site](https://pablog-7.github.io/inabalavel-heroi-vilao/) | 💻 [Ver Código](https://github.com/PabloG-7/inabalavel-heroi-vilao)
 
 ---
 
@@ -85,7 +85,7 @@
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [Ver Site](https://pablog-7.github.io/ecommerce-luckpet/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-luckpet)
+🌐 [Ver Site](https://pablog-7.github.io/ecommerce-luckpet/) | 💻 [Ver Código](https://github.com/PabloG-7/ecommerce-luckpet)
 
 ---
 

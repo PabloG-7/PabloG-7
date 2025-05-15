@@ -56,7 +56,7 @@
 ### 🔵🔴 Inabalavel - Fictício
 > Inabalável é um site fictício que apresenta um universo épico de fantasia, onde o conflito entre luz e trevas ganha vida através de duas figuras arquetípicas.
 <a href="https://pablog-7.github.io/inabalavel-heroi-vilao/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/inabalavel-apresentacao.png" alt="Preview Inabalavel">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/Design%20sem%20nome%20(2).png" alt="Preview Inabalavel">
 </a>
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`

@@ -61,7 +61,7 @@
 
 **Tecnologias:** `React` `Axios` `JavaScript`
 
-🌐 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
+🌐 [Ver Site](https://pokedex-nine-vert.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
 
 ---
 

@@ -55,11 +55,11 @@
 
 ### 🌟💥 Pokédex - Pokémon
 > Uma Pokédex interativa construída com React e PokéAPI, com design moderno e responsivo para explorar o mundo Pokémon.
-<a href="https://pokedex-eight-drab-61.vercel.app/">
+<a href="https://pokedex-nine-vert.vercel.app/">
   <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex-apresentacao.png" alt="Preview Pokédex">
 </a>
 
-**Tecnologias:** `React` `Tailwind CSS` `JavaScript`
+**Tecnologias:** `React` `Axios` `JavaScript`
 
 🌐 [Ver Site](https://pokedex-eight-drab-61.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
 

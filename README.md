@@ -53,15 +53,15 @@
 
 ## Projetos em Destaque {
 
-### 🌟💥 Pokédex - Pokémon
-> Uma Pokédex interativa construída com React e PokéAPI, com design moderno e responsivo para explorar o mundo Pokémon.
-<a href="https://pokedex-nine-vert.vercel.app/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/pokedex-apresentacao.png" alt="Preview Pokédex">
+### 👾🎮 Neon Memory - Jogo da Memória
+> Um jogo de memória moderno e viciante com múltiplos modos de jogo. Teste sua concentração e reflexos em Normal, Velocidade e Difícil, com visual vibrante em estilo neon.
+<a href="https://jogo-memoria-gold.vercel.app/">
+  <img src="https://raw.githubusercontent.com/PabloG-7/jogo-memoria/refs/heads/main/neon-memory-apresentacao.png" alt="Preview Neon Memory">
 </a>
 
-**Tecnologias:** `React` `Axios` `JavaScript`
+**Tecnologias:** `TypeScript` `React` `supabase`
 
-🌐 [Ver Site](https://pokedex-nine-vert.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/pokedex)
+🌐 [Ver Site](https://jogo-memoria-gold.vercel.app/) | 💻 [Ver Código](https://github.com/PabloG-7/jogo-memoria)
 
 ---
 

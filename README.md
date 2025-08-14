@@ -49,7 +49,7 @@
 
 ---
 
-### 🔵 Inabalável  
+### 🔰 Inabalável  
 > Site fictício com estética sombria inspirado em animações épicas.  
 **Tecnologias:** `HTML` `CSS` `JavaScript`  
 🌐 [Acessar Site](https://pablog-7.github.io/inabalavel-heroi-vilao/) | 💻 [Código Fonte](https://github.com/PabloG-7/inabalavel-heroi-vilao)  

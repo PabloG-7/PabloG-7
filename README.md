@@ -5,7 +5,7 @@
 
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvedor+Full-Stack+em+Formação;Apaixonado+por+Tecnologia;Criando+Experiências+Incríveis" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Criando+Experiências+Incríveis" />
 </div>
 
 ---
@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -74,7 +75,8 @@
 <p align="center">
   <a href="mailto:pablooliver853@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pablogomess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://pablog-7.github.io/meu-portifolio/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-dev-pablo.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pablogomesss__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -83,6 +85,3 @@
 > _"O sucesso é a soma de pequenos esforços repetidos dia após dia."_ – Robert Collier  
 
 ---
-
-<p align="center">✨ Feito com ❤️ por <a href="https://github.com/PabloG-7">Pablo Gomes</a></p>
-

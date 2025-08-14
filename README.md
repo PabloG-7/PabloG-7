@@ -15,7 +15,6 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 - 🎮 Apaixonado por **jogos competitivos** e **desafios lógicos**  
 - 📚 Sempre estudando sobre **tecnologia** e **desenvolvimento pessoal**  
-- 🚴‍♂ No tempo livre: programo, viajo e descubro novos lugares  
 
 ---
 

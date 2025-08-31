@@ -44,7 +44,7 @@
 🌐 [Acessar Jogo](https://jogo-memoria-gold.vercel.app/) | 💻 [Código Fonte](https://github.com/PabloG-7/jogo-memoria)  
 
 <a href="https://jogo-memoria-gold.vercel.app/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/jogo-memoria/refs/heads/main/neon-memory-apresentacao.png" width="600px">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" width="600px">
 </a>
 
 ---

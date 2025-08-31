@@ -55,7 +55,7 @@
 🌐 [Acessar Site](https://pablog-7.github.io/inabalavel-heroi-vilao/) | 💻 [Código Fonte](https://github.com/PabloG-7/inabalavel-heroi-vilao)  
 
 <a href="https://pablog-7.github.io/inabalavel-heroi-vilao/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/inabalavel-heroi-vilao/refs/heads/main/inabalavel-apresentacao.png" width="600px">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/inabalavel-linkedin.png" width="600px">
 </a>
 
 ---

@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Sobre Mim  
-- 👨‍💻 Desenvolvedor **Full-Stack** em formação  
+- 👨‍💻 Desenvolvedor **Front-end** em formação  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 - 🎮 Apaixonado por **jogos competitivos** e **desafios lógicos**  
 - 📚 Sempre estudando sobre **tecnologia** e **desenvolvimento pessoal**  

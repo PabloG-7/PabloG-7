@@ -55,7 +55,7 @@
 🌐 [Acessar Site](https://projeto-luckpet.vercel.app/) | 💻 [Código Fonte](https://github.com/PabloG-7/ecommerce-luckpet)  
 
 <a href="https://pablog-7.github.io/inabalavel-heroi-vilao/">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/inabalavel-linkedin.png" width="600px">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" width="600px">
 </a>
 
 ---

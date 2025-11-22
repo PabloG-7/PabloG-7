@@ -27,32 +27,24 @@
 
 ---
 
-## 🚀 **Sobre Mim**
+## 🌟 **Sobre Mim**
 
-```javascript
-const pablo = {
-  pronomes: "ele/dele",
-  código: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tecnologias: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Styled Components", "Tailwind CSS", "SASS"],
-      stateManagement: ["Redux", "Context API"]
-    },
-    backend: ["Node.js", "Express"],
-    database: ["Supabase", "MySQL"],
-    ferramentas: ["Git", "GitHub", "Vercel", "Figma"]
-  },
-  educação: "Análise e Desenvolvimento de Sistemas",
-  paixões: [
-    "UI/UX Design",
-    "Jogos competitivos", 
-    "Desafios de lógica",
-    "Tecnologia e inovação"
-  ],
-  lema: "Transformar café em código e ideias em experiências digitais"
-};
-```
+<div align="center">
+
+*"Transformar ideias em experiências digitais excepcionais através de código limpo e designs intuitivos"*
+
+</div>
+
+Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apenas impressionam visualmente, mas também proporcionam experiências fluidas e memoráveis. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, mergulho diariamente no universo do desenvolvimento web, sempre em busca de evolução constante.
+
+### 🎯 **Minha Jornada**
+- 💻 Focado em **React, TypeScript e ecossistema moderno**
+- 🎨 Valorizo **UI/UX cuidadosa** e **código bem estruturado**
+- 🚀 Sempre explorando **novas tecnologias** e **boas práticas**
+- 🎮 Nos momentos livres, gosto de **jogos competitivos** que desafiam minha estratégia e raciocínio
+
+### 🧠 **Minha Filosofia**
+> *"O frontend vai além do visual - é sobre criar conexões emocionais através de interfaces que funcionam perfeitamente em cada interação."*
 
 🛠 Stack Tecnológica
 
@@ -64,6 +56,8 @@ const pablo = {
 
 📚 Estudando Atualmente  
 <p align="left"> <img src="https://skillicons.dev/icons?i=vue,nuxtjs,graphql,redux" /> </p>
+
+---
 
 🎯 Projetos em Destaque
 

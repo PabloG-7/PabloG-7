@@ -54,42 +54,62 @@
 
 ---
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" title="Bootstrap"/>
-</p>
+## 🚀 Frontend Development
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-</p>
+## ⚙️ Backend Development
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### 🗄️ Bancos de Dados
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="55" title="Supabase"/>
-</p>
+## 🗄️ Databases
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" title="Vercel"/>
-</p>
+## ☁️ Cloud & DevOps
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</div>
+
+---
+
+## 🛠️ Development Tools
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </p>
+</div>
 
 ---
 
@@ -110,29 +130,30 @@
 
 ---
 
-👾 Neon Memory  
+## 👾 Neon Memory  
 Jogo da memória imersivo com tema neon e múltiplos modos de jogo
 
-<div align="center">
-  ![Neon Memory](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="600"/>
+</p>
 
-✨ Features: Modos competitivo e casual • Sistema de pontuação • Design responsivo  
-🛠 Stack: TypeScript, React, Styled Components, Supabase  
-🔗 Links: Demo • Código
+✨ **Features:** Modos competitivo e casual • Sistema de pontuação • Design responsivo  
+🛠 **Stack:** TypeScript, React, Styled Components, Supabase  
+🔗 **Links:** Demo • Código
 
 ---
 
-🐾 Luckpet  
+## 🐾 Luckpet  
 E-commerce moderno para produtos pet com experiência de usuário premium
 
-<div align="center">
-  ![Luckpet][https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png]
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="600"/>
+</p>
 
-✨ Features: Design system • Carrinho dinâmico • Autenticação • Fully responsive  
-🛠 Stack: JavaScript, HTML5, CSS3, Supabase, Local Storage  
-🔗 Links: Demo • Código
+✨ **Features:** Design system • Carrinho dinâmico • Autenticação • Fully responsive  
+🛠 **Stack:** JavaScript, HTML5, CSS3, Supabase, Local Storage  
+🔗 **Links:** Demo • Código
+
 
 ---
 

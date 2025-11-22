@@ -35,7 +35,8 @@
 
 </div>
 
-Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apenas impressionam visualmente, mas também proporcionam experiências fluidas e memoráveis. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, mergulho diariamente no universo do desenvolvimento web, sempre em busca de evolução constante.
+- Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apenas impressionam visualmente, mas também proporcionam experiências fluidas e memoráveis. 
+- Atualmente cursando **Análise e Desenvolvimento de Sistemas**, mergulho diariamente no universo do desenvolvimento web, sempre em busca de evolução constante.
 
 ### 🎯 **Minha Jornada**
 - 💻 Focado em **React, TypeScript e ecossistema moderno**
@@ -46,16 +47,27 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apena
 ### 🧠 **Minha Filosofia**
 > *"O frontend vai além do visual - é sobre criar conexões emocionais através de interfaces que funcionam perfeitamente em cada interação."*
 
-🛠 Stack Tecnológica
+## 🛠 **Stack Tecnológica**
 
-💻 Frontend Principal  
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,styledcomponents" /> </p>
+<div align="center">
+  
+### **💻 Tecnologias & Ferramentas**
+  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="50" height="50"/>
+</p>
 
-⚙️ Ferramentas & DevOps  
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vite,webpack" /> </p>
-
-📚 Estudando Atualmente  
-<p align="left"> <img src="https://skillicons.dev/icons?i=vue,nuxtjs,graphql,redux" /> </p>
+</div>
 
 ---
 
@@ -100,25 +112,6 @@ E-commerce moderno para produtos pet com experiência de usuário premium
   <!-- Contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloG-7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-
----
-
-🎮 Fora do Código
-
-- 🎯 Competitivo: Amante de jogos de estratégia e FPS
-- 📖 Auto-desenvolvimento: Sempre aprendendo algo novo
-- 🎵 Música: Desenvolvendo com boa trilha sonora
-- ☕ Café: Combustível essencial para programar
-
----
-
-📈 Metas 2024
-
-- Dominar Next.js avançado
-- Contribuir para projetos open source
-- Aprender testing (Jest, Cypress)
-- Desenvolver 5+ projetos com TypeScript
-- Criar conteúdo técnico sobre frontend
 
 ---
 

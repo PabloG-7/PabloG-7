@@ -64,7 +64,7 @@ Jogo da memória imersivo com tema neon e múltiplos modos de jogo
 
 ✨ **Features:** Modos competitivo e casual • Sistema de pontuação • Design responsivo  
 🛠 **Stack:** TypeScript, React, Styled Components, Supabase  
-🔗 **Links:** Demo: (https://jogo-memoria-gold.vercel.app/) • Código: (https://github.com/PabloG-7/jogo-memoria)
+🔗 **Links:** Demo: https://jogo-memoria-gold.vercel.app/ • Código: https://github.com/PabloG-7/jogo-memoria
 
 ---
 
@@ -77,7 +77,7 @@ E-commerce moderno para produtos pet com experiência de usuário premium
 
 ✨ **Features:** Design system • Carrinho dinâmico • Autenticação • Fully responsive  
 🛠 **Stack:** JavaScript, HTML5, CSS3, Supabase, Local Storage  
-🔗 **Links:** Demo: (https://projeto-luckpet.vercel.app/) • Código: (https://github.com/PabloG-7/ecommerce-luckpet)
+🔗 **Links:** Demo: https://projeto-luckpet.vercel.app/ • Código: https://github.com/PabloG-7/ecommerce-luckpet
 
 
 ---

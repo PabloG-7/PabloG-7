@@ -37,32 +37,35 @@
 
 <div align="center">
 
-<!-- Animated Cards -->
+<!-- Enhanced About Me Cards -->
 <table>
   <tr>
     <td width="50%" valign="top">
     
-### 🎯 **Minha Missão**
-<div align="left">
+### 🎯 **Minha Jornada & Paixões**
+<div align="left" style="background: linear-gradient(135deg, #7C3AED20, #EC489920); padding: 20px; border-radius: 15px; border-left: 4px solid #7C3AED;">
   
-- 💻 **Desenvolvedor Frontend** especializado em **React & TypeScript**
-- 🎨 Criador de interfaces que **encantam e funcionam perfeitamente**
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🚀 **Evolução constante** através de projetos desafiadores
-- 🎮 **Gamer** nas horas vagas - estratégia e raciocínio aguçados
+🚀 **Desenvolvedor Frontend** com especialização em **React & TypeScript**  
+🎨 **Artista Digital** criando interfaces que **encantam e funcionam perfeitamente**  
+📚 **Estudante dedicado** de **Análise e Desenvolvimento de Sistemas**  
+🌟 **Inovador constante** evoluindo através de projetos desafiadores  
+🎮 **Estrategista** nas horas vagas - raciocínio lógico sempre afiado  
+💡 **Problem Solver** transformando desafios em soluções elegantes
 
 </div>
     </td>
     <td width="50%" valign="top">
     
-### 🌈 **Meus Valores**
-<div align="left">
+### 🌈 **Filosofia & Valores**
+<div align="left" style="background: linear-gradient(135deg, #3B82F620, #EC489920); padding: 20px; border-radius: 15px; border-left: 4px solid #3B82F6;">
   
-- ✅ **Código limpo** e arquitetura sólida
-- 🎯 **UX/UI** cuidadosamente planejada
-- 🔥 **Performance** e experiência fluida
-- 🚀 **Inovação** e aprendizado contínuo
-- 💫 **Qualidade** em cada detalhe
+✅ **Código limpo** com arquitetura sólida e escalável  
+🎯 **UX/UI centrada no usuário** - cada pixel com propósito  
+🔥 **Performance otimizada** para experiências fluidas  
+🚀 **Inovação contínua** sempre aprendendo e evoluindo  
+💫 **Qualidade premium** em cada detalhe implementado  
+🤝 **Colaboração eficaz** trabalhando em equipe para excelência  
+📱 **Design responsivo** que se adapta a qualquer dispositivo
 
 </div>
     </td>
@@ -127,13 +130,48 @@
 
 <div align="center">
 
-| 🎮 Features | 🛠 Tecnologias | 🔗 Links |
-|-------------|----------------|-----------|
-| • Modos competitivo e casual<br>• Sistema de pontuação avançado<br>• Design responsivo e acessível<br>• Efeitos visuais imersivos<br>• Performance otimizada | `TypeScript` `React` `Styled Components` `Supabase` `Vercel` | [**🚀 Demo**](https://jogo-memoria-gold.vercel.app/) • [**💻 Código**](https://github.com/PabloG-7/jogo-memoria) |
+<!-- Enhanced Project Table -->
+<table width="100%" style="border-collapse: collapse; background: linear-gradient(135deg, #7C3AED10, #EC489910); border-radius: 15px; overflow: hidden;">
+  <tr>
+    <td width="40%" style="padding: 25px; border-right: 2px solid #7C3AED30; vertical-align: top;">
+      <h3 align="center" style="color: #7C3AED; margin-bottom: 20px;">🎮 **Recursos Incríveis**</h3>
+      <div align="left" style="line-height: 1.8;">
+        <span style="color: #7C3AED;">⚡</span> **Modos Competitivo & Casual**<br>
+        <span style="color: #7C3AED;">🏆</span> **Sistema de Pontuação Avançado**<br>
+        <span style="color: #7C3AED;">📱</span> **Design Responsivo & Acessível**<br>
+        <span style="color: #7C3AED;">✨</span> **Efeitos Visuais Imersivos**<br>
+        <span style="color: #7C3AED;">🚀</span> **Performance Otimizada**<br>
+        <span style="color: #7C3AED;">🎯</span> **Interface Intuitiva & Fluida**
+      </div>
+    </td>
+    <td width="30%" style="padding: 25px; border-right: 2px solid #7C3AED30; vertical-align: top;">
+      <h3 align="center" style="color: #3B82F6; margin-bottom: 20px;">🛠 **Tech Stack**</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </div>
+    </td>
+    <td width="30%" style="padding: 25px; vertical-align: top;">
+      <h3 align="center" style="color: #EC4899; margin-bottom: 20px;">🔗 **Links do Projeto**</h3>
+      <div align="center">
+        <a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Demo_Ao_Vivo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" style="margin: 5px 0; width: 100%;"/>
+        </a>
+        <br />
+        <a href="https://github.com/PabloG-7/jogo-memoria" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" style="margin: 5px 0; width: 100%;"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
 
@@ -150,9 +188,43 @@
 
 <div align="center">
 
-| 🛍️ Features | 🛠 Tecnologias | 🔗 Links |
-|-------------|----------------|-----------|
-| • Design system próprio<br>• Carrinho dinâmico e intuitivo<br>• Sistema de autenticação seguro<br>• Fully responsive design<br>• Performance otimizada | `JavaScript` `HTML5` `CSS3` `Supabase` `Local Storage` | [**🚀 Demo**](https://projeto-luckpet.vercel.app/) • [**💻 Código**](https://github.com/PabloG-7/ecommerce-luckpet) |
+<table width="100%" style="border-collapse: collapse; background: linear-gradient(135deg, #EC489910, #3B82F610); border-radius: 15px; overflow: hidden;">
+  <tr>
+    <td width="40%" style="padding: 25px; border-right: 2px solid #EC489930; vertical-align: top;">
+      <h3 align="center" style="color: #EC4899; margin-bottom: 20px;">🛍️ **Recursos Premium**</h3>
+      <div align="left" style="line-height: 1.8;">
+        <span style="color: #EC4899;">🎨</span> **Design System Próprio**<br>
+        <span style="color: #EC4899;">🛒</span> **Carrinho Dinâmico & Intuitivo**<br>
+        <span style="color: #EC4899;">🔐</span> **Sistema de Autenticação Seguro**<br>
+        <span style="color: #EC4899;">📱</span> **Fully Responsive Design**<br>
+        <span style="color: #EC4899;">⚡</span> **Performance Otimizada**<br>
+        <span style="color: #EC4899;">💫</span> **Experiência do Usuário Premium**
+      </div>
+    </td>
+    <td width="30%" style="padding: 25px; border-right: 2px solid #EC489930; vertical-align: top;">
+      <h3 align="center" style="color: #3B82F6; margin-bottom: 20px;">🛠 **Tech Stack**</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </div>
+    </td>
+    <td width="30%" style="padding: 25px; vertical-align: top;">
+      <h3 align="center" style="color: #3B82F6; margin-bottom: 20px;">🔗 **Links do Projeto**</h3>
+      <div align="center">
+        <a href="https://projeto-luckpet.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Demo_Ao_Vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white&labelColor=EC4899" style="margin: 5px 0; width: 100%;"/>
+        </a>
+        <br />
+        <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" style="margin: 5px 0; width: 100%;"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 

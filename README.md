@@ -9,99 +9,210 @@
   </p>
   
   <!-- Redes Sociais -->
-  <p align="center">
+  <div align="center">
     <a href="https://portfolio-dev-pablo.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=000000"/>
     </a>
     <a href="https://www.linkedin.com/in/pablogomess/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
     </a>
     <a href="mailto:pablooliver853@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
     </a>
     <a href="https://www.instagram.com/pablog.dev/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F"/>
     </a>
-  </p>
+  </div>
 </div>
 
----
+<br />
 
-## 🌟 **Sobre Mim**
-
-<div align="center">
-
-*"Transformar ideias em experiências digitais excepcionais através de código limpo e designs intuitivos"*
-
-</div>
-
-- Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apenas impressionam visualmente, mas também proporcionam experiências fluidas e memoráveis. 
-- Atualmente cursando **Análise e Desenvolvimento de Sistemas**, mergulho diariamente no universo do desenvolvimento web, sempre em busca de evolução constante.
-
-### 🎯 **Minha Jornada**
-- 💻 Focado em **React, TypeScript e ecossistema moderno**
-- 🎨 Valorizo **UI/UX cuidadosa** e **código bem estruturado**
-- 🚀 Sempre explorando **novas tecnologias** e **boas práticas**
-- 🎮 Nos momentos livres, gosto de **jogos competitivos** que desafiam minha estratégia e raciocínio
-
----
-
-## 🛠 Stack Tecnológica
 <div align="center">
   
-<p align="center"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/> <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="50" height="50" title="Supabase"/> <!-- Cloud & DevOps --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50" title="Vercel"/> <!-- Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" title="npm"/> </p></div>
+  ## 🚀 **Sobre Mim**
 
----
+  <div align="center">
+    <em>✨ "Transformar ideias em experiências digitais excepcionais através de código limpo e designs intuitivos" ✨</em>
+  </div>
 
-## 🎯 Projetos em Destaque
-
-## 👾 Neon Memory  
-Jogo da memória imersivo com tema neon e múltiplos modos de jogo
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="600"/>
-</p>
-
-✨ **Features:** Modos competitivo e casual • Sistema de pontuação • Design responsivo  
-🛠 **Stack:** TypeScript, React, Styled Components, Supabase  
-🔗 **Links:** Demo: https://jogo-memoria-gold.vercel.app/ • Código: https://github.com/PabloG-7/jogo-memoria
-
----
-
-## 🐾 Luckpet  
-E-commerce moderno para produtos pet com experiência de usuário premium
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="600"/>
-</p>
-
-✨ **Features:** Design system • Carrinho dinâmico • Autenticação • Fully responsive  
-🛠 **Stack:** JavaScript, HTML5, CSS3, Supabase, Local Storage  
-🔗 **Links:** Demo: https://projeto-luckpet.vercel.app/ • Código: https://github.com/PabloG-7/ecommerce-luckpet
-
-
----
-
-📊 GitHub Analytics
-
-<div align="center">
-  <!-- Estatísticas Principais -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  <!-- Streak -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=radical&hide_border=true"/>
-  <!-- Contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloG-7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
----
-
-💫 Vamos Conectar!
+<br />
 
 <div align="center">
-  <p>💼 <strong>Disponível para oportunidades e colaborações</strong></p>
-  <p><i>"O código é poesia, a interface é arte, e a experiência é tudo."</i> 🚀</p>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        
+  ### 🎯 **Minha Missão**
+  - 💻 **Desenvolvedor Frontend** especializado em React e TypeScript
+  - 🎨 Criador de interfaces que **encantam e funcionam perfeitamente**
+  - 📚 Cursando **Análise e Desenvolvimento de Sistemas**
+  - 🚀 **Evolução constante** através de projetos desafiadores
+
+      </td>
+      <td width="50%">
+        
+  ### 🌟 **Meus Valores**
+  - ✅ **Código limpo** e bem estruturado
+  - 🎯 **UX/UI** cuidadosamente planejada
+  - 🔥 **Performance** e experiência fluida
+  - 🎮 **Paixão** por tecnologia e inovação
+
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br />
+
+<div align="center">
+  
+  ## 🛠 **Stack Tecnológica**
+
+  <br />
+  
+  ### 🎨 **Frontend & Design**
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </div>
+
+  ### ⚙️ **Backend & Banco de Dados**
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </div>
+
+  ### 🛠 **Ferramentas & DevOps**
+  <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </div>
+
+</div>
+
+<br />
+
+<div align="center">
+  
+  ## 🎯 **Projetos em Destaque**
+
+</div>
+
+<br />
+
+### 👾 **Neon Memory** 
+> *Jogo da memória imersivo com tema neon e múltiplos modos de jogo*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="80%"/>
+</div>
+
+<br />
+
+<div align="center">
+  
+  | Características | Tecnologias | Links |
+  |----------------|-------------|--------|
+  | 🎮 Modos competitivo e casual<br>🏆 Sistema de pontuação<br>📱 Design responsivo<br>✨ Efeitos visuais imersivos | `TypeScript` `React` `Styled Components` `Supabase` | [**Demo**](https://jogo-memoria-gold.vercel.app/) • [**Código**](https://github.com/PabloG-7/jogo-memoria) |
+
+</div>
+
+<br />
+
+### 🐾 **Luckpet** 
+> *E-commerce moderno para produtos pet com experiência de usuário premium*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="80%"/>
+</div>
+
+<br />
+
+<div align="center">
+  
+  | Características | Tecnologias | Links |
+  |----------------|-------------|--------|
+  | 🛍️ Design system próprio<br>🛒 Carrinho dinâmico<br>🔐 Sistema de autenticação<br>📱 Fully responsive | `JavaScript` `HTML5` `CSS3` `Supabase` `Local Storage` | [**Demo**](https://projeto-luckpet.vercel.app/) • [**Código**](https://github.com/PabloG-7/ecommerce-luckpet) |
+
+</div>
+
+<br />
+
+<div align="center">
+  
+  ## 📊 **GitHub Analytics**
+
+</div>
+
+<div align="center">
+  
+  <!-- Estatísticas em Grid -->
+  <table>
+    <tr>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+      </td>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=radical&hide_border=true&background=00000000"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Gráfico de Contribuições -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloG-7&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=7C3AED" width="100%"/>
+
+</div>
+
+<br />
+
+<div align="center">
+  
+  ## 💫 **Vamos Conectar!**
+
+  <br />
+  
+  <div>
+    <p>💼 <strong>Disponível para oportunidades e colaborações inspiradoras</strong></p>
+    <p><em>🎯 "O código é poesia, a interface é arte, e a experiência é tudo."</em></p>
+  </div>
+
+  <br />
+  
+  <div>
+    <a href="https://portfolio-dev-pablo.vercel.app/">
+      <img src="https://img.shields.io/badge/📁_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/pablogomess/">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:pablooliver853@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
+  <br />
 
   <!-- Footer Animado -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true)
+
 </div>

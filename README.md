@@ -1,6 +1,3 @@
-# 🚀 **Pablo Gomes** 
-### *Desenvolvedor Frontend & Criador de Experiências Digitais*
-
 <div align="center">
 
 ![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:3B82F6&height=220&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&animation=scale&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=24&descAlignY=55)

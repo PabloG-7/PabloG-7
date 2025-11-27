@@ -81,10 +81,9 @@
 
 </div>
 
+---
 
 ## 🎯 Projetos em Destaque
-
----
 
 <br>
 
@@ -105,16 +104,22 @@
 
 <br>
 
-## 📌 Recursos Incríveis
-- ⚡ Modos Competitivo & Casual  
-- 🏆 Sistema de pontuação avançado  
-- ✨ Efeitos visuais neon  
-- 🚀 Performance otimizada  
-- 🎯 Interface intuitiva  
-- 📱 Totalmente responsivo  
+## 🎮 Recursos Incríveis
+<div align="center">
+
+⚡ Modos Competitivo & Casual  
+🏆 Sistema de pontuação avançado  
+✨ Efeitos visuais neon  
+🚀 Performance otimizada  
+🎯 Interface intuitiva  
+📱 Totalmente responsivo  
+
+</div>
+
+<br>
 
 ## 🛠 Tech Stack
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/><br>
@@ -124,9 +129,18 @@
 
 </div>
 
+<br>
+
 ## 🔗 Links do Projeto
-- 🚀 **Demo ao Vivo:** https://jogo-memoria-gold.vercel.app/  
-- 💻 **Código Fonte:** https://github.com/PabloG-7/jogo-memoria  
+<div align="center">
+
+🚀 **Demo ao Vivo:**  
+https://jogo-memoria-gold.vercel.app/  
+
+💻 **Código Fonte:**  
+https://github.com/PabloG-7/jogo-memoria  
+
+</div>
 
 ---
 
@@ -149,16 +163,22 @@
 
 <br>
 
-## 📌 Recursos Premium
-- 🎨 Design System próprio  
-- 🛒 Carrinho dinâmico e intuitivo  
-- 🔐 Autenticação completa  
-- ⚡ Performance otimizada  
-- 💫 UX premium  
-- 📱 Totalmente responsivo  
+## 🛍️ Recursos Premium
+<div align="center">
 
-## 🛠 Tech Stack  
-<div align="left">
+🎨 Design System próprio  
+🛒 Carrinho dinâmico e intuitivo  
+🔐 Autenticação completa  
+⚡ Performance otimizada  
+💫 UX premium  
+📱 Totalmente responsivo  
+
+</div>
+
+<br>
+
+## 🛠 Tech Stack
+<div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/><br>
@@ -168,9 +188,18 @@
 
 </div>
 
+<br>
+
 ## 🔗 Links do Projeto
-- 🚀 **Demo ao Vivo:** https://projeto-luckpet.vercel.app/  
-- 💻 **Código Fonte:** https://github.com/PabloG-7/ecommerce-luckpet  
+<div align="center">
+
+🚀 **Demo ao Vivo:**  
+https://projeto-luckpet.vercel.app/  
+
+💻 **Código Fonte:**  
+https://github.com/PabloG-7/ecommerce-luckpet  
+
+</div>
 
 
 

@@ -83,114 +83,63 @@
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 **Projetos em Destaque**
 
 ---
 
-<br>
-
-# 👾 Neon Memory
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png"
-    width="70%"
-    alt="Neon Memory"
-  />
-</div>
+## 👾 **Neon Memory** 
+*Jogo da memória imersivo com tema neon - Uma experiência visual extraordinária*
 
 <div align="center">
-  <p>
-    Jogo da memória com estética neon, animações modernas e modo competitivo.<br>
-    Experiência rápida, fluida e visualmente imersiva.
-  </p>
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(124, 58, 237, 0.4); border: 1px solid rgba(124, 58, 237, 0.2);"/>
 </div>
+
+<br />
+
+### 📋 **Detalhes do Projeto**
+
+<div align="center">
+
+| 🎮 Recursos Incríveis | 🛠 Tech Stack | 🔗 Links |
+| :--- | :--- | :--- |
+| <div align="left"> • ⚡ **Modos Competitivo & Casual**<br> • 🏆 **Sistema de Pontuação Avançado**<br> • 📱 **Design Responsivo**<br> • ✨ **Efeitos Visuais Imersivos**<br> • 🚀 **Performance Otimizada**<br> • 🎯 **Interface Intuitiva**</div> | <div align="center"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br> <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /><br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </div> | <div align="center"> <a href="https://jogo-memoria-gold.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_Demo_Ao_Vivo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a><br> <a href="https://github.com/PabloG-7/jogo-memoria" target="_blank"> <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a> </div> |
+
+</div>
+
+<br /><br />
 
 ---
 
-### 🎮 Recursos
+## 🐾 **Luckpet** 
+*E-commerce premium para produtos pet - Experiência de usuário excepcional*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(236, 72, 153, 0.4); border: 1px solid rgba(236, 72, 153, 0.2);"/>
+</div>
+
+<br />
+
+### 📋 **Detalhes do Projeto**
+
 <div align="center">
 
-🔥 Modos Competitivo & Casual •  
-✨ Efeitos Neon •  
-🚀 Super Performance •  
-🎯 UX suave •  
-📱 Totalmente Responsivo  
+| 🛍️ Recursos Premium | 🛠 Tech Stack | 🔗 Links |
+| :--- | :--- | :--- |
+| <div align="left"> • 🎨 **Design System Próprio**<br> • 🛒 **Carrinho Dinâmico**<br> • 🔐 **Autenticação Segura**<br> • 📱 **Fully Responsive**<br> • ⚡ **Performance Otimizada**<br> • 💫 **UX Premium**</div> | <div align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </div> | <div align="center"> <a href="https://projeto-luckpet.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_Demo_Ao_Vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a><br> <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank"> <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a> </div> |
 
 </div>
 
-### 🛠 Tecnologias
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
-
-</div>
-
-### 🔗 Acessar
-<div align="center">
-
-🌐 **Demo:** https://jogo-memoria-gold.vercel.app/  
-💻 **Código:** https://github.com/PabloG-7/jogo-memoria  
-
-</div>
+<br />
 
 ---
 
-<br><br>
-
-# 🐾 Luckpet
+## 🚀 **Mais Projetos**
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png"
-    width="70%"
-    alt="Luckpet"
-  />
-</div>
 
-<div align="center">
-  <p>
-    E-commerce completo, moderno e responsivo para produtos pet.<br>
-    UX profissional, performance otimizada e autenticação integrada.
-  </p>
-</div>
-
----
-
-### 🛍️ Recursos
-<div align="center">
-
-🎨 Design System próprio •  
-🛒 Carrinho Dinâmico •  
-🔐 Login/Autenticação •  
-⚡ Alta Performance •  
-📱 100% Responsivo  
+[![Ver Todos os Projetos](https://img.shields.io/badge/📂_Explorar_Todos_os_Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloG-7?tab=repositories)
 
 </div>
-
-### 🛠 Tecnologias
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
-
-</div>
-
-### 🔗 Acessar
-<div align="center">
-
-🌐 **Demo:** https://projeto-luckpet.vercel.app/  
-💻 **Código:** https://github.com/PabloG-7/ecommerce-luckpet  
-
-</div>
-
 
 ---
 

@@ -85,60 +85,56 @@
 
 ## 🎯 Projetos em Destaque
 
+---
+
 <br>
 
 # 👾 Neon Memory
-<div align="center">
-  <em>Jogo da memória imersivo com tema neon — visual e jogabilidade premium</em>
-</div>
-
-<br>
 
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png"
+    width="70%"
     alt="Neon Memory"
-    width="75%"
   />
 </div>
 
-<br>
+<div align="center">
+  <p>
+    Jogo da memória com estética neon, animações modernas e modo competitivo.<br>
+    Experiência rápida, fluida e visualmente imersiva.
+  </p>
+</div>
 
-## 🎮 Recursos Incríveis
+---
+
+### 🎮 Recursos
 <div align="center">
 
-⚡ Modos Competitivo & Casual  
-🏆 Sistema de pontuação avançado  
-✨ Efeitos visuais neon  
-🚀 Performance otimizada  
-🎯 Interface intuitiva  
-📱 Totalmente responsivo  
+🔥 Modos Competitivo & Casual •  
+✨ Efeitos Neon •  
+🚀 Super Performance •  
+🎯 UX suave •  
+📱 Totalmente Responsivo  
 
 </div>
 
-<br>
-
-## 🛠 Tech Stack
+### 🛠 Tecnologias
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
 
 </div>
 
-<br>
-
-## 🔗 Links do Projeto
+### 🔗 Acessar
 <div align="center">
 
-🚀 **Demo ao Vivo:**  
-https://jogo-memoria-gold.vercel.app/  
-
-💻 **Código Fonte:**  
-https://github.com/PabloG-7/jogo-memoria  
+🌐 **Demo:** https://jogo-memoria-gold.vercel.app/  
+💻 **Código:** https://github.com/PabloG-7/jogo-memoria  
 
 </div>
 
@@ -147,60 +143,53 @@ https://github.com/PabloG-7/jogo-memoria
 <br><br>
 
 # 🐾 Luckpet
-<div align="center">
-  <em>E-commerce premium para produtos pet — experiência profissional e moderna</em>
-</div>
-
-<br>
 
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png"
+    width="70%"
     alt="Luckpet"
-    width="75%"
   />
 </div>
 
-<br>
+<div align="center">
+  <p>
+    E-commerce completo, moderno e responsivo para produtos pet.<br>
+    UX profissional, performance otimizada e autenticação integrada.
+  </p>
+</div>
 
-## 🛍️ Recursos Premium
+---
+
+### 🛍️ Recursos
 <div align="center">
 
-🎨 Design System próprio  
-🛒 Carrinho dinâmico e intuitivo  
-🔐 Autenticação completa  
-⚡ Performance otimizada  
-💫 UX premium  
-📱 Totalmente responsivo  
+🎨 Design System próprio •  
+🛒 Carrinho Dinâmico •  
+🔐 Login/Autenticação •  
+⚡ Alta Performance •  
+📱 100% Responsivo  
 
 </div>
 
-<br>
-
-## 🛠 Tech Stack
+### 🛠 Tecnologias
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
 
 </div>
 
-<br>
-
-## 🔗 Links do Projeto
+### 🔗 Acessar
 <div align="center">
 
-🚀 **Demo ao Vivo:**  
-https://projeto-luckpet.vercel.app/  
-
-💻 **Código Fonte:**  
-https://github.com/PabloG-7/ecommerce-luckpet  
+🌐 **Demo:** https://projeto-luckpet.vercel.app/  
+💻 **Código:** https://github.com/PabloG-7/ecommerce-luckpet  
 
 </div>
-
 
 
 ---

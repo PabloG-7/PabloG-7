@@ -91,19 +91,39 @@
 *Jogo da memória imersivo com tema neon - Uma experiência visual extraordinária*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(124, 58, 237, 0.4); border: 1px solid rgba(124, 58, 237, 0.2);"/>
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" alt="Neon Memory" width="95%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(124, 58, 237, 0.3); border: 1px solid rgba(124, 58, 237, 0.1);"/>
 </div>
 
 <br />
 
-### 📋 **Detalhes do Projeto**
+### 🎮 **Recursos Incríveis**
+<div align="left" style="background: linear-gradient(135deg, #7C3AED10, #EC489905); padding: 15px; border-radius: 10px; margin: 10px 0;">
+• ⚡ **Modos Competitivo & Casual**<br>
+• 🏆 **Sistema de Pontuação Avançado**<br>
+• 📱 **Design Responsivo & Acessível**<br>
+• ✨ **Efeitos Visuais Imersivos**<br>
+• 🚀 **Performance Otimizada**<br>
+• 🎯 **Interface Intuitiva & Fluida**
+</div>
 
-<div align="center">
+### 🛠 **Tech Stack**
+<div align="center" style="background: linear-gradient(135deg, #3B82F610, #60A5FA05); padding: 15px; border-radius: 10px; margin: 10px 0;">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</div>
 
-| 🎮 Recursos Incríveis | 🛠 Tech Stack | 🔗 Links |
-| :--- | :--- | :--- |
-| <div align="left"> • ⚡ **Modos Competitivo & Casual**<br> • 🏆 **Sistema de Pontuação Avançado**<br> • 📱 **Design Responsivo**<br> • ✨ **Efeitos Visuais Imersivos**<br> • 🚀 **Performance Otimizada**<br> • 🎯 **Interface Intuitiva**</div> | <div align="center"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br> <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /><br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </div> | <div align="center"> <a href="https://jogo-memoria-gold.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_Demo_Ao_Vivo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a><br> <a href="https://github.com/PabloG-7/jogo-memoria" target="_blank"> <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a> </div> |
-
+### 🔗 **Links do Projeto**
+<div align="center" style="background: linear-gradient(135deg, #EC489910, #F472B605); padding: 15px; border-radius: 10px; margin: 10px 0;">
+<a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Demo_Ao_Vivo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 5px 0; width: 100%; max-width: 280px;"/>
+</a>
+<br />
+<a href="https://github.com/PabloG-7/jogo-memoria" target="_blank">
+<img src="https://img.shields.io/badge/💻_Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px 0; width: 100%; max-width: 280px;"/>
+</a>
 </div>
 
 <br /><br />
@@ -114,19 +134,39 @@
 *E-commerce premium para produtos pet - Experiência de usuário excepcional*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(236, 72, 153, 0.4); border: 1px solid rgba(236, 72, 153, 0.2);"/>
+  <img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/luckpet-linkedin.png" alt="Luckpet" width="95%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(236, 72, 153, 0.3); border: 1px solid rgba(236, 72, 153, 0.1);"/>
 </div>
 
 <br />
 
-### 📋 **Detalhes do Projeto**
+### 🛍️ **Recursos Premium**
+<div align="left" style="background: linear-gradient(135deg, #EC489910, #F472B605); padding: 15px; border-radius: 10px; margin: 10px 0;">
+• 🎨 **Design System Próprio**<br>
+• 🛒 **Carrinho Dinâmico & Intuitivo**<br>
+• 🔐 **Sistema de Autenticação Seguro**<br>
+• 📱 **Fully Responsive Design**<br>
+• ⚡ **Performance Otimizada**<br>
+• 💫 **Experiência do Usuário Premium**
+</div>
 
-<div align="center">
+### 🛠 **Tech Stack**
+<div align="center" style="background: linear-gradient(135deg, #3B82F610, #60A5FA05); padding: 15px; border-radius: 10px; margin: 10px 0;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</div>
 
-| 🛍️ Recursos Premium | 🛠 Tech Stack | 🔗 Links |
-| :--- | :--- | :--- |
-| <div align="left"> • 🎨 **Design System Próprio**<br> • 🛒 **Carrinho Dinâmico**<br> • 🔐 **Autenticação Segura**<br> • 📱 **Fully Responsive**<br> • ⚡ **Performance Otimizada**<br> • 💫 **UX Premium**</div> | <div align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </div> | <div align="center"> <a href="https://projeto-luckpet.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐_Demo_Ao_Vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a><br> <a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank"> <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 8px 0; width: 100%; max-width: 200px;"/> </a> </div> |
-
+### 🔗 **Links do Projeto**
+<div align="center" style="background: linear-gradient(135deg, #7C3AED10, #EC489905); padding: 15px; border-radius: 10px; margin: 10px 0;">
+<a href="https://projeto-luckpet.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Demo_Ao_Vivo-EC4899?style=for-the-badge&logo=vercel&logoColor=white" style="margin: 5px 0; width: 100%; max-width: 280px;"/>
+</a>
+<br />
+<a href="https://github.com/PabloG-7/ecommerce-luckpet" target="_blank">
+<img src="https://img.shields.io/badge/💻_Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px 0; width: 100%; max-width: 280px;"/>
+</a>
 </div>
 
 <br />

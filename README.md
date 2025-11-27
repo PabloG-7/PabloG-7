@@ -233,43 +233,10 @@
 ## 💫 **Vamos Conectar!**
 
 <div align="center">
-
-### 🎯 **Pronto para o Próximo Desafio**
-
-> *"Grandes projetos nascem de grandes colaborações. Vamos criar algo extraordinário juntos!"*
-
-<br />
-
-<div style="margin: 20px 0;">
-  <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visite_Meu_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Conecte_se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Vamos_Conversar-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-</div>
-
-<br />
-
-<!-- Counter Visitors -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloG-7&color=7C3AED&style=for-the-badge&label=👀+VISITANTES" alt="Profile views" />
-</div>
-
-<br />
+  <p>💼 <strong>Disponível para oportunidades e colaborações</strong></p>
+  <p><i>"O código é poesia, a interface é arte, e a experiência é tudo."</i> 🚀</p>
 
 <!-- Footer Animation -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:EC4899,100:7C3AED&height=120&section=footer&reversal=true&animation=twinkling)
-
-</div>
-
----
-
-<div align="center">
-
-*"O código é minha arte, a interface meu canvas, e a experiência digital minha masterpiece."* 🎨✨
 
 </div>

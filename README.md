@@ -31,48 +31,18 @@
 
 <div align="center">
 
-> *"Transformo linhas de código em experiências digitais que encantam e inspiram. Cada projeto é uma oportunidade de criar algo extraordinário."*
+*"Transformar ideias em experiências digitais excepcionais através de código limpo e designs intuitivos"*
 
 </div>
 
-<div align="center">
+- Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces que não apenas impressionam visualmente, mas também proporcionam experiências fluidas e memoráveis. 
+- Atualmente cursando **Análise e Desenvolvimento de Sistemas**, mergulho diariamente no universo do desenvolvimento web, sempre em busca de evolução constante.
 
-<!-- Enhanced About Me Cards -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-    
-### 🎯 **Minha Jornada & Paixões**
-<div align="left" style="background: linear-gradient(135deg, #7C3AED20, #EC489920); padding: 20px; border-radius: 15px; border-left: 4px solid #7C3AED;">
-  
-🚀 **Desenvolvedor Frontend** com especialização em **React & TypeScript**  
-🎨 **Artista Digital** criando interfaces que **encantam e funcionam perfeitamente**  
-📚 **Estudante dedicado** de **Análise e Desenvolvimento de Sistemas**  
-🌟 **Inovador constante** evoluindo através de projetos desafiadores  
-🎮 **Estrategista** nas horas vagas - raciocínio lógico sempre afiado  
-💡 **Problem Solver** transformando desafios em soluções elegantes
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-    
-### 🌈 **Filosofia & Valores**
-<div align="left" style="background: linear-gradient(135deg, #3B82F620, #EC489920); padding: 20px; border-radius: 15px; border-left: 4px solid #3B82F6;">
-  
-✅ **Código limpo** com arquitetura sólida e escalável  
-🎯 **UX/UI centrada no usuário** - cada pixel com propósito  
-🔥 **Performance otimizada** para experiências fluidas  
-🚀 **Inovação contínua** sempre aprendendo e evoluindo  
-💫 **Qualidade premium** em cada detalhe implementado  
-🤝 **Colaboração eficaz** trabalhando em equipe para excelência  
-📱 **Design responsivo** que se adapta a qualquer dispositivo
-
-</div>
-    </td>
-  </tr>
-</table>
-
-</div>
+### 🎯 **Minha Jornada**
+- 💻 Focado em **React, TypeScript e ecossistema moderno**
+- 🎨 Valorizo **UI/UX cuidadosa** e **código bem estruturado**
+- 🚀 Sempre explorando **novas tecnologias** e **boas práticas**
+- 🎮 Nos momentos livres, gosto de **jogos competitivos** que desafiam minha estratégia e raciocínio
 
 ---
 

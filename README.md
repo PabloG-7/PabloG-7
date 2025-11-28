@@ -59,12 +59,14 @@ Busco sempre unir **performance**, **design refinado** e **experiência do usuá
 ### 👾 **Neon Memory**
 Um jogo da memória com estética neon e animações suaves, criando uma experiência única.
 
-<img 
-  src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" 
-  alt="Neon Memory" 
-  width="70%" 
-  style="border-radius: 14px; margin-top: 10px;" 
-/>
+<a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" 
+    alt="Neon Memory" 
+    width="70%" 
+    style="border-radius: 14px; margin-top: 10px; border: 2px solid #7C3AED; cursor: pointer;" 
+  />
+</a>
 
 </div>
 

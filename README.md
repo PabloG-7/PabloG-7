@@ -74,29 +74,7 @@ Um jogo da memória com estética neon e animações suaves, criando uma experi�
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img
-  height="150em"
-  src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"
-/>
-
-<!-- Top Languages -->
-<img
-  height="150em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical&hide_border=true&bg_color=00000000"
-/>
-
-<!-- Streak Stats -->
-<img
-  height="150em"
-  src="https://streak-stats.demolab.com?user=PabloG-7&theme=radical&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D"
-/>
-
-</div>
-
-
+<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical&hide_border=true&bg_color=00000000" /> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=radical&hide_border=true&background=00000000" /> </div>
 
 ---
 

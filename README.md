@@ -1,48 +1,36 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,18,20,24&text=Pablo%20Gomes&fontSize=70&fontColor=fff&fontAlignY=42&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=22&descAlignY=60&animation=fadeIn&stroke=7C3AED&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&customColorList=6,11,20&text=PABLO%20GOMES&fontSize=65&fontColor=fff&fontAlignY=55&desc=Frontend%20Developer%20%E2%9A%A1%20Building%20Digital%20Experiences&descSize=18&descAlignY=75&animation=twinkling"/>
 
 <br/>
 
-<!-- Typing Animation com efeito mais moderno -->
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=✨+Transformando+ideias+em+código;💻+React+%7C+TypeScript+%7C+Next.js;🚀+Performance+%2B+Design+%2B+UX;🎨+Criando+experiências+memoráveis" 
-  alt="Typing Animation" 
-/>
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;UI%2FUX+Design+%2B+Clean+Code+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+Next.js+%E2%9A%9B%EF%B8%8F;Criando+experi%C3%AAncias+digitais+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- Badges de Perfil Animados -->
+<!-- Social Badges com gradiente -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloG-7&label=Visualizações&color=7C3AED&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/PabloG-7?label=Seguidores&style=for-the-badge&color=EC4899&labelColor=1a1a2e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/PabloG-7?label=Estrelas&style=for-the-badge&color=3B82F6&labelColor=1a1a2e" alt="stars" />
+  <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pablooliver853@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/pablog.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 <br/>
 
-<!-- Social Buttons Premium -->
-<div align="center">
-  <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://www.instagram.com/pablog.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-  </a>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 

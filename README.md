@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,50:EC4899,100:3B82F6&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=45&fontColor=7C3AED&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=65&animation=fadeIn&fontAlign=50)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Frontend%20%E2%9A%A1&descSize=22&descAlignY=55&descAlign=50)
 
 <!-- Typing Animation -->
 <img 

@@ -1,7 +1,9 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=280&section=header&text=PABLO+GOMES&fontSize=80&fontAlign=50&fontAlignY=38&fontColor=fff&animation=twinkling&desc=Frontend%20Developer%20%E2%9A%A1%20Building%20Amazing%20Experiences&descSize=20&descAlign=50&descAlignY=58&stroke=7C3AED&strokeWidth=1)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=280&section=header&text=Pablo+Gomes&fontSize=80&fontAlign=50&fontAlignY=38&fontColor=fff&animation=twinkling&desc=Desenvolvedor+Frontend+%E2%9C%A8&descSize=24&descAlign=50&descAlignY=58&stroke=7C3AED&strokeWidth=1)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+React+%7C+TypeScript+%7C+Next.js;%F0%9F%8E%A8+UI%2FUX+Design+%2B+Clean+Code;%E2%9A%A1+Performance+%2B+Acessibilidade;%E2%9C%A8+Transformando+ideias+em+c%C3%B3digo" alt="Subtitle Animation" />
 
 <!-- Typing Animation -->
 <img 

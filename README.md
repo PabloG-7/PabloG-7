@@ -3,11 +3,13 @@
 
 ![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:EC4899,100:3B82F6&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
 
-<!-- Typing Animation -->
+<!-- Typing Animation Melhorada -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3800&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Criando+Experiências+Digitais;Code+With+Passion;Frontend+Developer;UI%2FUX+Lover" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Criando+Experiências+Digitais;%E2%9A%A1+React+%7C+TypeScript+%7C+Next.js;%F0%9F%8E%A8+UI%2FUX+Design+%2B+Clean+Code;%F0%9F%9A%80+Performance+%2B+Acessibilidade;%E2%9C%A8+Transformando+ideias+em+código" 
   alt="Typing Animation" 
 />
+
+<br/>
 
 <!-- Social Buttons -->
 <div align="center" style="margin-top: 18px;">

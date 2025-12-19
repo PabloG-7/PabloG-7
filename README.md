@@ -8,7 +8,7 @@
 <!-- Animated Gradient Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;%E2%9C%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
 
-<br/><br/>
+<br/>
 
 <br/>
 

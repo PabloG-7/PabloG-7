@@ -1,130 +1,64 @@
 <!-- HEADER -->
 <div align="center">
-
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Pablo%20Gomes&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Frontend%20%7C%20Criador%20de%20Experiências%20Digitais&descSize=18&descAlign=50&descAlignY=55)
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Tailwind;%F0%9F%92%A1+Transformando+ideias+em+código+elegante;%F0%9F%8E%A8+Design+%2B+Performance+%2B+User+Experience" alt="Typing Animation" />
-
+![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:8B5CF6,50:A855F7,100:C084FC&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
 <br/>
-
-<!-- Social Badges com Hover Effect -->
-<p align="center">
+<!-- Animated Gradient Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;%E2%9C%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
+<br/>
+<!-- Social Buttons -->
+<div align="center" style="margin-top: 18px;">
   <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logoColor=white&labelColor=5B21B6" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pabloogomess/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B71C1C" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/pablog.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram" />
+  <a href="https://www.instagram.com/pablog.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<!-- Stats em Linha -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloG-7&color=8B5CF6&style=for-the-badge&label=Visualizações" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PabloG-7?style=for-the-badge&color=A855F7&labelColor=5B21B6&logo=github&label=Seguidores" alt="Followers" />
-</p>
-
 </div>
-
-<!-- Linha Divisória Gradiente -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
+</div>
+---
 ## 🌟 Sobre Mim
-
 <div align="center">
-
-```typescript
-const pablo = {
-  codigo: ["JavaScript", "TypeScript", "Python"],
-  ferramentas: ["React", "Next.js", "Node.js", "Express"],
-  design: ["Tailwind CSS", "Styled Components", "Framer Motion"],
-  arquitetura: ["Component-Driven", "JAMstack", "REST APIs"],
-  desafio: "Criar interfaces que encantam e performam",
-  foco_atual: "Explorando animações avançadas e micro-interações",
-  motto: "Clean code isn't written by following rules. It's written with care. 💜"
-};
-```
-
+*"Transformo ideias em experiências digitais excepcionais através de código limpo e design inteligente."*
 </div>
-
-<div align="center">
-
-**Transformo café ☕ em interfaces elegantes** que combinam estética moderna com performance excepcional.  
-Apaixonado por criar experiências digitais que **impressionam usuários** e **facilitam a vida dos desenvolvedores**.
-
-</div>
-
+Sou um **Desenvolvedor Frontend** apaixonado por criar interfaces modernas, fluidas e atraentes.  
+Busco sempre unir **performance**, **design refinado** e **experiência do usuário**.
 ---
-
-## 🛠 Stack Tecnológica
-
+## 🛠 Tecnologias e Ferramentas
 <div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,python&theme=dark" />
-
-### Ferramentas & Ambiente
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,figma&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,express,mongodb,mysql,python,supabase,git,github,docker,vscode,vercel&perline=8" />
 </div>
-
 ---
-
 ## 🚀 Projetos em Destaque
-
 <div align="center">
-
-### 🎮 **Neon Memory Game**
-> Um jogo da memória com visual cyberpunk, animações fluidas e experiência imersiva
-
-[![Neon Memory](https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png)](https://jogo-memoria-gold.vercel.app/)
-
-**Tech Stack:** React • TypeScript • Framer Motion • Tailwind CSS  
-**[🔗 Ver Projeto](https://jogo-memoria-gold.vercel.app/)** | **[📦 Repositório](https://github.com/PabloG-7)**
-
+### 👾 **Neon Memory**
+Um jogo da memória com estética neon e animações suaves, criando uma experiência única.
+<a href="https://jogo-memoria-gold.vercel.app/" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/refs/heads/main/neon-linkedin.png" 
+    alt="Neon Memory" 
+    width="70%" 
+    style="border-radius: 14px; margin-top: 10px; border: 2px solid 
+#7C3AED; cursor: pointer;" 
+  />
+</a>
 </div>
-
 ---
-
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=8B5CF6" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=radical&hide_border=true&background=00000000" />
 </div>
-
 ---
-
 ## 💫 Vamos Conectar!
-
 <div align="center">
-
-### 💼 Aberto para oportunidades e colaborações
-
-🎯 **Freelance** | 🤝 **Projetos Open Source** | 💡 **Consultoria Frontend**
-
-<br/>
-
-*"Código é poesia. Interface é arte. Experiência é tudo."*
-
-<br/>
-
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer)
-
+💼 **Aberto para oportunidades e colaborações**  
+✨ *"Código é poesia. Interface é arte. Experiência é tudo."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:C084FC&height=110&section=footer&reversal=true)
 </div>

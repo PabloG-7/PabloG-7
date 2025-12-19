@@ -3,8 +3,12 @@
 
 ![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:EC4899,100:3B82F6&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
 
+<br/>
+
 <!-- Animated Gradient Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%92%BB+React+%7C+TypeScript+%7C+Next.js;%F0%9F%8E%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;%E2%9C%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
+
+<br/><br/>
 
 <br/>
 

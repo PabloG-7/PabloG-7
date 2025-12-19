@@ -1,21 +1,19 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
+![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:8B5CF6,50:A855F7,100:C084FC&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
 
 <br/>
 
 <!-- Animated Gradient Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;%E2%9C%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;%E2%9C%A8+Transformando+ideias+em+experi%C3%AAncias+digitais" alt="Subtitle" />
 
-<br/>
-
-<br/>
+<br/><br/>
 
 <!-- Social Buttons -->
 <div align="center" style="margin-top: 18px;">
   <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pablogomess/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,6 +94,6 @@ Um jogo da memória com estética neon e animações suaves, criando uma experi�
 
 ✨ *"Código é poesia. Interface é arte. Experiência é tudo."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:EC4899,100:7C3AED&height=110&section=footer&reversal=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:C084FC&height=110&section=footer&reversal=true)
 
 </div>

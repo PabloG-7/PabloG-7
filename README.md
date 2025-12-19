@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,50:EC4899,100:3B82F6&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=45&fontColor=7C3AED&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=65&animation=fadeIn&fontAlign=50)
+![Header Animation](https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:EC4899,100:3B82F6&height=200&section=header&text=Pablo+Gomes&fontSize=60&fontAlignY=40&fontColor=ffffff&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=60&rotate=13)
 
 <!-- Typing Animation -->
 <img 
@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Sobre Mim
+## 🌟 Sobre Mim
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Busco sempre unir **performance**, **design refinado** e **experiência do usuá
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Busco sempre unir **performance**, **design refinado** e **experiência do usuá
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" height="32px"> Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Um jogo da memória com estética neon e animações suaves, criando uma experi�
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Um jogo da memória com estética neon e animações suaves, criando uma experi�
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" height="28px"> Vamos Conectar!
+## 💫 Vamos Conectar!
 
 <div align="center">
 

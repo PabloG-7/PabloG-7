@@ -23,6 +23,26 @@ Tenho experiência prática em:
 
 ---
 
+## 💼 Projetos Freelance (Clientes Reais)
+
+### 🏢 Site Institucional – Max Sorvetes
+Desenvolvimento de site institucional com foco em conversão via WhatsApp e presença digital local.
+
+- Layout responsivo (mobile-first)
+- Integração com Google Maps
+- Estrutura otimizada para SEO básico
+
+---
+
+### 🏥 Site Institucional – Dr. Bruno Ribeiro
+Criação de site profissional voltado à geração de agendamentos online.
+
+- Arquitetura organizada
+- Interface moderna e responsiva
+- Integração com WhatsApp para conversão
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🌟 PGFlow – Plataforma Social Full-Stack
@@ -38,14 +58,6 @@ Jogo da memória com React + TypeScript + Supabase Realtime.
 
 🌐 Demo: https://jogo-memoria-gold.vercel.app/ <br>
 📁 Código: https://github.com/PabloG-7/jogo-memoria
-
----
-
-### 🐾 LuckPet – E-commerce
-E-commerce com sistema de fidelidade e autenticação integrada.
-
-🌐 Demo: https://projeto-luckpet.vercel.app/ <br>
-📁 Código: https://github.com/PabloG-7/ecommerce-luckpet 
 
 ---
 

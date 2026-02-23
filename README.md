@@ -28,24 +28,24 @@ Tenho experiência prática em:
 ### 🌟 PGFlow – Plataforma Social Full-Stack
 Aplicação com autenticação segura, CRUD completo e arquitetura REST organizada.
 
-🔗 Demo: https://SEU-LINK-AQUI  
-📁 Código: https://github.com/PabloG-7/SEU-REPO-AQUI  
+🔗 Demo: pgflow.onrender.com/
+📁 Código: https://github.com/PabloG-7/pgflow 
 
 ---
 
 ### 🎮 Neon Memory – Multiplayer em Tempo Real
 Jogo da memória com React + TypeScript + Supabase Realtime.
 
-🔗 Demo: (https://jogo-memoria-gold.vercel.app/)](https://jogo-memoria-gold.vercel.app/)
-📁 Código: https://github.com/PabloG-7/SEU-REPO-AQUI  
+🔗 Demo: https://jogo-memoria-gold.vercel.app/
+📁 Código: https://github.com/PabloG-7/jogo-memoria
 
 ---
 
 ### 🐾 LuckPet – E-commerce
 E-commerce com sistema de fidelidade e autenticação integrada.
 
-🔗 Demo: https://SEU-LINK-AQUI  
-📁 Código: https://github.com/PabloG-7/SEU-REPO-AQUI  
+🔗 Demo: projeto-luckpet.vercel.app
+📁 Código: https://github.com/PabloG-7/ecommerce-luckpet 
 
 ---
 

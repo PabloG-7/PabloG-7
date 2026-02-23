@@ -23,26 +23,6 @@ Tenho experiência prática em:
 
 ---
 
-## 💼 Projetos Freelance (Clientes Reais)
-
-### 🏢 Site Institucional – Max Sorvetes
-Desenvolvimento de site institucional com foco em conversão via WhatsApp e presença digital local.
-
-- Layout responsivo (mobile-first)
-- Integração com Google Maps
-- Estrutura otimizada para SEO básico
-
----
-
-### 🏥 Site Institucional – Dr. Bruno Ribeiro
-Criação de site profissional voltado à geração de agendamentos online.
-
-- Arquitetura organizada
-- Interface moderna e responsiva
-- Integração com WhatsApp para conversão
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🌟 PGFlow – Plataforma Social Full-Stack

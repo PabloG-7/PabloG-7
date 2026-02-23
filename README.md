@@ -28,7 +28,7 @@ Tenho experiência prática em:
 ### 🌟 PGFlow – Plataforma Social Full-Stack
 Aplicação com autenticação segura, CRUD completo e arquitetura REST organizada.
 
-🔗 Demo: pgflow.onrender.com/
+🔗 Demo: https://pgflow.onrender.com/
 📁 Código: https://github.com/PabloG-7/pgflow 
 
 ---
@@ -44,7 +44,7 @@ Jogo da memória com React + TypeScript + Supabase Realtime.
 ### 🐾 LuckPet – E-commerce
 E-commerce com sistema de fidelidade e autenticação integrada.
 
-🔗 Demo: projeto-luckpet.vercel.app
+🔗 Demo: https://projeto-luckpet.vercel.app/
 📁 Código: https://github.com/PabloG-7/ecommerce-luckpet 
 
 ---

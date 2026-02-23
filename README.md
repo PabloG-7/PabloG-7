@@ -61,11 +61,7 @@ E-commerce com sistema de fidelidade e autenticação integrada.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true" />
 
 ---
 

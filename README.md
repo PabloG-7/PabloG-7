@@ -61,11 +61,7 @@ E-commerce com sistema de fidelidade e autenticação integrada.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=tokyonight" />
 
 </div>
 

@@ -52,7 +52,7 @@ E-commerce com sistema de fidelidade e autenticação integrada.
 ## 🛠️ Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,supabase,git,github,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,express,mongodb,mysql,python,supabase,git,github,docker,vscode,vercel&perline=8" />
 </div>
 
 ---
@@ -61,11 +61,7 @@ E-commerce com sistema de fidelidade e autenticação integrada.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=radical&hide_border=true&bg_color=00000000" /> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloG-7&theme=radical&hide_border=true&background=00000000" />
 
 ---
 

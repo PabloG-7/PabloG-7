@@ -36,7 +36,7 @@ Aplicação com autenticação segura, CRUD completo e arquitetura REST organiza
 ### 🎮 Neon Memory – Multiplayer em Tempo Real
 Jogo da memória com React + TypeScript + Supabase Realtime.
 
-🔗 Demo: https://jogo-memoria-gold.vercel.app/
+🔗 Demo: https://jogo-memoria-gold.vercel.app/ <br>
 📁 Código: https://github.com/PabloG-7/jogo-memoria
 
 ---

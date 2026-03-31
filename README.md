@@ -78,7 +78,7 @@ Jogo com sincronização em tempo real usando Supabase.
 
 ## 📫 Contato
 
-- 🌐 https://portfolio-dev-pablo.vercel.app  
+- 🌐 https://pablogomes-dev.vercel.app/ 
 - 💼 https://www.linkedin.com/in/pablogomess/  
 - 📧 pablooliver853@gmail.com  
 

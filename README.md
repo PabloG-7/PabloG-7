@@ -1,50 +1,70 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=55)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Front-End%20%7C%20React%20%26%20TypeScript&descSize=20&descAlignY=55)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou **Desenvolvedor Front-end** com foco em **React e TypeScript**, criando aplicações modernas, responsivas e orientadas à performance.
+Desenvolvedor Front-End com foco em **React e TypeScript**, criando aplicações web modernas, performáticas e utilizadas em ambiente real de produção.
 
-Tenho experiência prática em:
+Desenvolvi um sistema completo de gestão imobiliária (PMS) para uma empresa na Bolívia, substituindo processos baseados em planilhas por uma plataforma centralizada com controle operacional e financeiro.
 
-- Desenvolvimento de interfaces modernas (mobile-first)
-- Integração com APIs REST
-- Autenticação segura (JWT / Supabase)
-- Projetos Full-Stack
-- Deploy em Vercel e Render
-
-🎯 Atualmente buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**.
+💡 Foco em construir soluções reais, com código limpo, escalável e orientado a produto.
 
 ---
 
-## 🚀 Projetos em Destaque
+## ⚡ Principais Skills
+
+- ⚛️ React + TypeScript (Vite)
+- 🔗 Integração com APIs REST
+- 🔐 Autenticação (JWT / Supabase)
+- 📊 Sistemas com lógica de negócio (financeiro / gestão)
+- 📱 Interfaces responsivas (mobile-first)
+- 🚀 Deploy (Vercel / Render)
+
+---
+
+## 🧠 Projeto em Produção (Destaque)
+
+### 🏢 BNBPlaza – Property Management System (PMS)
+
+Sistema web de gestão imobiliária utilizado em produção por empresa na Bolívia.
+
+**Principais funcionalidades:**
+- Dashboard financeiro com métricas em tempo real  
+- Gestão de propriedades, hóspedes e ocupações  
+- Cálculo automático de comissões e receitas  
+- Relatórios mensais em PDF  
+- Arquitetura offline-first com sincronização  
+
+---
+
+## 🚀 Outros Projetos
 
 ### 🌟 PGFlow – Plataforma Social Full-Stack
-Aplicação com autenticação segura, CRUD completo e arquitetura REST organizada.
+Aplicação com autenticação, CRUD completo e arquitetura REST.
 
-🌐 Demo: https://pgflow.onrender.com/ <br>
-📁 Código: https://github.com/PabloG-7/pgflow 
+🌐 Demo: https://pgflow.onrender.com/  
+📁 Código: https://github.com/PabloG-7/pgflow  
 
 ---
 
 ### 🎮 Neon Memory – Multiplayer em Tempo Real
-Jogo da memória com React + TypeScript + Supabase Realtime.
+Jogo da memória com sincronização em tempo real via Supabase.
 
-🌐 Demo: https://jogo-memoria-gold.vercel.app/ <br>
-📁 Código: https://github.com/PabloG-7/jogo-memoria
+🌐 Demo: https://jogo-memoria-gold.vercel.app/  
+📁 Código: https://github.com/PabloG-7/jogo-memoria  
 
 ---
 
 ## 🛠️ Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,express,mongodb,mysql,python,supabase,git,github,docker,vscode,vercel&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,supabase,git,github,vercel&perline=6" />
 </div>
 
 ---
@@ -69,7 +89,7 @@ Jogo da memória com React + TypeScript + Supabase Realtime.
 
 <div align="center">
 
-💼 **Aberto para oportunidades em Front-end / React / Júnior**
+💼 **Aberto para oportunidades como Desenvolvedor Front-End (React)**
 
 </div>
 

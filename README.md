@@ -1,79 +1,76 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Front-End%20%7C%20React%20%26%20TypeScript&descSize=20&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5050,100:ff7a7a&height=220&section=header&text=Pablo%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+
+<h2>Desenvolvedor Front-End • React & TypeScript</h2>
+
+<p>
+Crio sistemas web modernos, performáticos e utilizados em produção.
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🧠 Sobre
 
-Desenvolvedor Front-End com foco em **React e TypeScript**, criando aplicações web modernas, performáticas e utilizadas em ambiente real de produção.
+Sou desenvolvedor Front-End com foco em React e TypeScript, criando aplicações web modernas com foco em performance, usabilidade e código escalável.
 
-Desenvolvi um sistema completo de gestão imobiliária (PMS) para uma empresa na Bolívia, substituindo processos baseados em planilhas por uma plataforma centralizada com controle operacional e financeiro.
+Atuo na construção de sistemas reais, incluindo um **Property Management System (PMS)** utilizado por uma empresa do setor imobiliário na Bolívia, substituindo processos manuais por uma plataforma centralizada.
 
-💡 Foco em construir soluções reais, com código limpo, escalável e orientado a produto.
-
----
-
-## ⚡ Principais Skills
-
-- ⚛️ React + TypeScript (Vite)
-- 🔗 Integração com APIs REST
-- 🔐 Autenticação (JWT / Supabase)
-- 📊 Sistemas com lógica de negócio (financeiro / gestão)
-- 📱 Interfaces responsivas (mobile-first)
-- 🚀 Deploy (Vercel / Render)
+Tenho experiência em estruturar aplicações com múltiplos módulos, integrar regras de negócio e desenvolver interfaces responsivas voltadas ao uso real.
 
 ---
 
-## 🧠 Projeto em Produção (Destaque)
+## 🚀 Projeto em Produção
 
-### 🏢 BNBPlaza – Property Management System (PMS)
+### 🏢 BNBPlaza – Sistema de Gestão Imobiliária (PMS)
 
-Sistema web de gestão imobiliária utilizado em produção por empresa na Bolívia.
+Sistema completo utilizado no dia a dia da operação.
 
-**Principais funcionalidades:**
+**Funcionalidades principais:**
 - Dashboard financeiro com métricas em tempo real  
-- Gestão de propriedades, hóspedes e ocupações  
-- Cálculo automático de comissões e receitas  
+- Gestão de propriedades, ocupações e hóspedes  
+- Cálculo automático de receitas e comissões  
 - Relatórios mensais em PDF  
-- Arquitetura offline-first com sincronização  
+- Arquitetura offline-first com sincronização de dados  
 
 ---
 
-## 🚀 Outros Projetos
+## ⚙️ Stack Principal
 
-### 🌟 PGFlow – Plataforma Social Full-Stack
-Aplicação com autenticação, CRUD completo e arquitetura REST.
+<div align="center">
 
-🌐 Demo: https://pgflow.onrender.com/  
-📁 Código: https://github.com/PabloG-7/pgflow  
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,supabase,git,github,vercel&perline=8" />
+
+</div>
+
+---
+
+## 💻 Outros Projetos
+
+### 🌐 PGFlow – Plataforma Social Full-Stack
+Aplicação com autenticação, CRUD e API REST.
+
+🔗 https://pgflow.onrender.com  
+📁 https://github.com/PabloG-7/pgflow  
 
 ---
 
 ### 🎮 Neon Memory – Multiplayer em Tempo Real
-Jogo da memória com sincronização em tempo real via Supabase.
+Jogo com sincronização em tempo real usando Supabase.
 
-🌐 Demo: https://jogo-memoria-gold.vercel.app/  
-📁 Código: https://github.com/PabloG-7/jogo-memoria  
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,supabase,git,github,vercel&perline=6" />
-</div>
+🔗 https://jogo-memoria-gold.vercel.app  
+📁 https://github.com/PabloG-7/jogo-memoria  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
 
 </div>
 
@@ -81,16 +78,16 @@ Jogo da memória com sincronização em tempo real via Supabase.
 
 ## 📫 Contato
 
-- 🌐 Portfólio: https://portfolio-dev-pablo.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/pablogomess/  
-- 📧 Email: pablooliver853@gmail.com  
+- 🌐 https://portfolio-dev-pablo.vercel.app  
+- 💼 https://www.linkedin.com/in/pablogomess/  
+- 📧 pablooliver853@gmail.com  
 
 ---
 
 <div align="center">
 
-💼 **Aberto para oportunidades como Desenvolvedor Front-End (React)**
+💼 Aberto a oportunidades como Desenvolvedor Front-End (React)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A855F7&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5050,100:ff7a7a&height=120&section=footer"/>

@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:ff7a7a&height=220&section=header&text=Pablo%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:fec90f&height=220&section=header&text=Pablo%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <h2>Desenvolvedor Front-End • React & TypeScript</h2>
 

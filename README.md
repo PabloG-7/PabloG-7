@@ -50,24 +50,6 @@ Sistema completo utilizado no dia a dia da operação.
 
 ---
 
-## 💻 Outros Projetos
-
-### 🌐 PGFlow – Plataforma Social Full-Stack
-Aplicação com autenticação, CRUD e API REST.
-
-🔗 https://pgflow.onrender.com  
-📁 https://github.com/PabloG-7/pgflow  
-
----
-
-### 🎮 Neon Memory – Multiplayer em Tempo Real
-Jogo com sincronização em tempo real usando Supabase.
-
-🔗 https://jogo-memoria-gold.vercel.app  
-📁 https://github.com/PabloG-7/jogo-memoria  
-
----
-
 ## 📊 GitHub
 
 <div align="center">

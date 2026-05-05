@@ -6,7 +6,9 @@
 <h2>Desenvolvedor Front-End • React & TypeScript</h2>
 
 <p>
-Crio sistemas web modernos, performáticos e utilizados em produção.
+Desenvolvedor focado em sites, sistemas e automações.
+
+🌐 https://pablogdev.com.br
 </p>
 
 </div>

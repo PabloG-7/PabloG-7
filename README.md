@@ -1,85 +1,79 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:0f172a&height=220&section=header&text=Pablo%20Gomes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Pablo%20Gomes&fontSize=52&fontColor=fec90f&animation=fadeIn&fontAlignY=40" />
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2500&pause=1200&color=fec90f&center=true&vCenter=true&width=440&lines=Front-End+Developer+•+React+%26+TypeScript;Sistemas+web+modernos+e+personalizados" />
+</p>
 
 <br />
 
 <a href="https://pablogdev.com.br">
-  <img src="https://img.shields.io/badge/Website-pablogdev.com.br-000c24?style=for-the-badge&logo=globe&logoColor=fec90f&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/website-000c24?style=flat-square&logo=globe&logoColor=fec90f" />
 </a>
 <a href="https://www.linkedin.com/in/pablogomess/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Gomes-000c24?style=for-the-badge&logo=linkedin&logoColor=fec90f&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/linkedin-000c24?style=flat-square&logo=linkedin&logoColor=fec90f" />
 </a>
 <a href="mailto:pablooliver853@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pablooliver853%40gmail.com-000c24?style=for-the-badge&logo=gmail&logoColor=fec90f&labelColor=0f172a" />
-</a>
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FEC90F&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+TypeScript;Web+Apps+%26+Sistemas+Personalizados" />
-
-</div>
-
----
-
-## 🧠 Sobre
-
-Desenvolvedor Front-End especializado em **React** e **TypeScript**, focado em construir aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
-
-Atuo no desenvolvimento de dashboards administrativos, plataformas de reservas, sistemas de autenticação, integrações com APIs e aplicações conectadas a **Supabase** e **Firebase**.
-
----
-
-## ⚙️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,supabase,firebase,postgres,tailwind,git,github,vercel&perline=6" />
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/PabloG-7/project-guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloG-7&repo=project-guide&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff&icon_color=fec90f" />
-</a>
-
-<a href="https://github.com/PabloG-7/booking-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloG-7&repo=booking-system&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff&icon_color=fec90f" />
+  <img src="https://img.shields.io/badge/email-000c24?style=flat-square&logo=gmail&logoColor=fec90f" />
 </a>
 
 </div>
 
+<br />
+
 ---
 
-## 📊 GitHub
+### 🧠 Sobre
 
-<div align="center">
+Crio aplicações web modernas com **React** e **TypeScript** — dashboards, sistemas de reservas, autenticação e integrações com **Supabase** e **Firebase**.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
+---
 
-<br />
-<br />
+### ⚙️ Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff" />
+<div>
+
+![React](https://img.shields.io/badge/-React-000c24?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000c24?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000c24?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-000c24?style=flat-square&logo=nodedotjs)
+![Supabase](https://img.shields.io/badge/-Supabase-000c24?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/-Firebase-000c24?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000c24?style=flat-square&logo=postgresql)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000c24?style=flat-square&logo=tailwindcss)
+![Git](https://img.shields.io/badge/-Git-000c24?style=flat-square&logo=git)
+![Vercel](https://img.shields.io/badge/-Vercel-000c24?style=flat-square&logo=vercel)
 
 </div>
 
 ---
 
-## 📬 Contato
+### 📌 Projetos
 
 <div align="center">
 
-Abra um diagnóstico pelo site: **[pablogdev.com.br](https://pablogdev.com.br)**
+<a href="https://github.com/PabloG-7/seu-repo-aqui">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloG-7&repo=seu-repo-aqui&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff" />
+</a>
+<a href="https://github.com/PabloG-7/seu-repo-aqui">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloG-7&repo=seu-repo-aqui&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff" />
+</a>
 
-Ou me encontre no **[LinkedIn](https://www.linkedin.com/in/pablogomess/)**
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
+
+<br />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&icon_color=fec90f&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=github_dark&border_color=0f172a&bg_color=000c24&title_color=fec90f&text_color=ffffff" />
 
 </div>
 
@@ -87,10 +81,12 @@ Ou me encontre no **[LinkedIn](https://www.linkedin.com/in/pablogomess/)**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000c24&height=100&section=footer"/>
+[![Website](https://img.shields.io/badge/pablogdev.com.br-000c24?style=flat-square&logo=globe&logoColor=fec90f)](https://pablogdev.com.br)
 
 <br />
 
 <sub>Frontend Developer • React • TypeScript</sub>
 
 </div>
+
+<br />

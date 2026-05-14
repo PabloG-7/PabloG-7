@@ -19,22 +19,13 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 ---
 
-## 🧠 Sobre
+### 🧠 Quem sou eu
 
-<br />
+> Desenvolvedor Front-End apaixonado por transformar ideias em aplicações web reais. Uso **React** e **TypeScript** como base para criar dashboards, sistemas de agendamento, plataformas de autenticação e experiências digitais que funcionam de verdade.
 
-> Desenvolvedor Front-End especializado em **React** e **TypeScript**, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
->
-> Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a **Supabase** e **Firebase**.
+> Meu foco está em performance, usabilidade e código limpo — sempre integrando com **Supabase**, **Firebase** e APIs modernas.
 
-<br />
-
-| 🎯 Foco | ⚡ Stack | 🔧 Ferramentas |
-|:-------:|:--------:|:-------------:|
-| Web Apps | React | GitHub |
-| Dashboards | TypeScript | Vercel |
-| Sistemas | Node.js | Supabase |
-| Autenticação | Firebase | Express |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br />
 

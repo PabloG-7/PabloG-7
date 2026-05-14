@@ -3,11 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:000c24&height=220&section=header&text=Pablo%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-<h2>Desenvolvedor Front-End • React & TypeScript</h2>
+<h2>Front-End Developer • React & TypeScript</h2>
 
 <p>
-Desenvolvedor focado em sites, sistemas e automações.
+Desenvolvimento de aplicações web modernas, sistemas personalizados e interfaces voltadas ao uso real.
+</p>
 
+<p>
 🌐 https://pablogdev.com.br
 </p>
 
@@ -17,26 +19,11 @@ Desenvolvedor focado em sites, sistemas e automações.
 
 ## 🧠 Sobre
 
-Sou desenvolvedor Front-End com foco em React e TypeScript, criando aplicações web modernas com foco em performance, usabilidade e código escalável.
+Desenvolvedor Front-End especializado em React e TypeScript, focado na construção de aplicações web escaláveis, responsivas e com experiência de uso moderna.
 
-Atuo na construção de sistemas reais, incluindo um **Property Management System (PMS)** utilizado por uma empresa do setor imobiliário na Bolívia, substituindo processos manuais por uma plataforma centralizada.
+Atuo no desenvolvimento de sistemas administrativos, plataformas de reservas, dashboards e aplicações personalizadas com integração de regras de negócio, autenticação, relatórios e sincronização de dados.
 
-Tenho experiência em estruturar aplicações com múltiplos módulos, integrar regras de negócio e desenvolver interfaces responsivas voltadas ao uso real.
-
----
-
-## 🚀 Projeto em Produção
-
-### 🏢 BNBPlaza – Sistema de Gestão Imobiliária (PMS)
-
-Sistema completo utilizado no dia a dia da operação.
-
-**Funcionalidades principais:**
-- Dashboard financeiro com métricas em tempo real  
-- Gestão de propriedades, ocupações e hóspedes  
-- Cálculo automático de receitas e comissões  
-- Relatórios mensais em PDF  
-- Arquitetura offline-first com sincronização de dados  
+Experiência com React, TypeScript, Supabase, Firebase e arquitetura de aplicações modernas voltadas a performance, organização e manutenção escalável.
 
 ---
 
@@ -44,9 +31,23 @@ Sistema completo utilizado no dia a dia da operação.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,supabase,git,github,vercel&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,supabase,firebase,git,github,vercel&perline=9" />
 
 </div>
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+- React  
+- TypeScript  
+- Vite  
+- Supabase  
+- Firebase  
+- Node.js  
+- Express  
+- Git & GitHub  
+- Vercel  
 
 ---
 
@@ -62,7 +63,7 @@ Sistema completo utilizado no dia a dia da operação.
 
 ## 📫 Contato
 
-- 🌐 https://pablogomes-dev.vercel.app/ 
+- 🌐 https://pablogdev.com.br  
 - 💼 https://www.linkedin.com/in/pablogomess/  
 - 📧 pablooliver853@gmail.com  
 
@@ -70,7 +71,7 @@ Sistema completo utilizado no dia a dia da operação.
 
 <div align="center">
 
-💼 Aberto a oportunidades como Desenvolvedor Front-End (React)
+Frontend Developer • React • TypeScript
 
 </div>
 

@@ -21,7 +21,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:3b82f6&height=3&section=header" />
 <br />
 
-### 🧠 Quem sou eu
+## 🧠 Quem sou eu
 
 > Desenvolvedor Front-End apaixonado por transformar ideias em aplicações web reais. Uso **React** e **TypeScript** como base para criar dashboards, sistemas de agendamento, plataformas de autenticação e experiências digitais que funcionam de verdade.
 

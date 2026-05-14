@@ -17,34 +17,24 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 </div>
 
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
 ## 🧠 Sobre
 
-<table>
-<tr>
-<td width="70%">
+<br />
 
-Desenvolvedor Front-End especializado em **React** e **TypeScript**, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
-
-Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a **Supabase** e **Firebase**.
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/assets/code-animation.svg" width="140" />
+> Desenvolvedor Front-End especializado em **React** e **TypeScript**, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
+>
+> Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a **Supabase** e **Firebase**.
 
 <br />
 
-<b>Frontend Developer</b>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+| 🎯 Foco | ⚡ Stack | 🔧 Ferramentas |
+|:-------:|:--------:|:-------------:|
+| Web Apps | React | GitHub |
+| Dashboards | TypeScript | Vercel |
+| Sistemas | Node.js | Supabase |
+| Autenticação | Firebase | Express |
 
 <br />
 
@@ -60,10 +50,6 @@ Experiência no desenvolvimento de dashboards administrativos, plataformas de re
 
 ---
 
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
 ## 📊 GitHub
 
 <div align="center">
@@ -71,10 +57,6 @@ Experiência no desenvolvimento de dashboards administrativos, plataformas de re
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<br />
 
 ---
 

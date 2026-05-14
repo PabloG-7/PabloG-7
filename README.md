@@ -17,7 +17,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/assets/divider.svg" />
 
 ### 🧠 Quem sou eu
 
@@ -25,7 +25,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 > Meu foco está em performance, usabilidade e código limpo — sempre integrando com **Supabase**, **Firebase** e APIs modernas.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/assets/divider.svg" />
 
 <br />
 

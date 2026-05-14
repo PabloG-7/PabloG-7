@@ -1,16 +1,18 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:000c24&height=220&section=header&text=Pablo%20Gomes&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:0f172a&height=220&section=header&text=Pablo%20Gomes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h2>Front-End Developer • React & TypeScript</h2>
+<h3>Front-End Developer • React & TypeScript</h3>
 
 <p>
-Desenvolvimento de aplicações web modernas, sistemas personalizados e interfaces voltadas ao uso real.
+Aplicações web modernas, sistemas personalizados e experiências digitais focadas em performance e usabilidade.
 </p>
 
 <p>
-🌐 https://pablogdev.com.br
+<a href="https://pablogdev.com.br">Website</a> •
+<a href="https://www.linkedin.com/in/pablogomess/">LinkedIn</a> •
+<a href="mailto:pablooliver853@gmail.com">Email</a>
 </p>
 
 </div>
@@ -19,11 +21,9 @@ Desenvolvimento de aplicações web modernas, sistemas personalizados e interfac
 
 ## 🧠 Sobre
 
-Desenvolvedor Front-End especializado em React e TypeScript, focado na construção de aplicações web escaláveis, responsivas e com experiência de uso moderna.
+Desenvolvedor Front-End especializado em React e TypeScript, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
 
-Atuo no desenvolvimento de sistemas administrativos, plataformas de reservas, dashboards e aplicações personalizadas com integração de regras de negócio, autenticação, relatórios e sincronização de dados.
-
-Experiência com React, TypeScript, Supabase, Firebase e arquitetura de aplicações modernas voltadas a performance, organização e manutenção escalável.
+Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a Supabase e Firebase.
 
 ---
 
@@ -37,35 +37,15 @@ Experiência com React, TypeScript, Supabase, Firebase e arquitetura de aplicaç
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-- React  
-- TypeScript  
-- Vite  
-- Supabase  
-- Firebase  
-- Node.js  
-- Express  
-- Git & GitHub  
-- Vercel  
-
----
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
-
----
-
-## 📫 Contato
-
-- 🌐 https://pablogdev.com.br  
-- 💼 https://www.linkedin.com/in/pablogomess/  
-- 📧 pablooliver853@gmail.com  
 
 ---
 
@@ -75,4 +55,4 @@ Frontend Developer • React • TypeScript
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5050,100:ff7a7a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000c24&height=120&section=footer"/>

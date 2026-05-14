@@ -23,7 +23,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 Desenvolvedor Front-End especializado em React e TypeScript, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
 
-Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a Supabase e entre outras.
+Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a Supabase e Firebase.
 
 ---
 
@@ -37,13 +37,11 @@ Experiência no desenvolvimento de dashboards administrativos, plataformas de re
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" />
 
 </div>
 

@@ -18,7 +18,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 </div>
 
 <br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:000c24&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:3b82f6&height=3&section=header" />
 <br />
 
 ### 🧠 Quem sou eu
@@ -28,7 +28,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 > Meu foco está em performance, usabilidade e código limpo — sempre integrando com **Supabase**, **Firebase** e APIs modernas.
 
 <br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000c24,100:fec90f&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:fec90f&height=3&section=header" />
 <br />
 
 ---

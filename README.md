@@ -17,7 +17,9 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 </div>
 
-<img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/assets/divider.svg" />
+<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:000c24&height=3&section=header" />
+<br />
 
 ### 🧠 Quem sou eu
 
@@ -25,8 +27,8 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 > Meu foco está em performance, usabilidade e código limpo — sempre integrando com **Supabase**, **Firebase** e APIs modernas.
 
-<img src="https://raw.githubusercontent.com/PabloG-7/PabloG-7/main/assets/divider.svg" />
-
+<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000c24,100:fec90f&height=3&section=header" />
 <br />
 
 ---

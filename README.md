@@ -23,7 +23,7 @@ Aplicações web modernas, sistemas personalizados e experiências digitais foca
 
 Desenvolvedor Front-End especializado em React e TypeScript, com foco na construção de aplicações web escaláveis, interfaces modernas e sistemas voltados ao uso real.
 
-Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a Supabase e Firebase.
+Experiência no desenvolvimento de dashboards administrativos, plataformas de reservas, autenticação, integrações e aplicações conectadas a Supabase e entre outras.
 
 ---
 

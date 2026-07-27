@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=180&section=header" />
+<!-- COVER PERSONALIZADA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header" />
+
+<br />
 
 # Pablo Gomes
 
 ### Front-End Developer  
 **React · TypeScript · Next.js**
 
-Building modern web applications.
+<br />
 
-[Website](https://pablogdev.com.br) · [LinkedIn](https://www.linkedin.com/in/pablogomess/) · [Email](mailto:pablooliver853@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:3b82f6&height=2&section=header" width="60%" />
+
+<br />
+
+[Website](https://pablogdev.com.br) · [LinkedIn](https://www.linkedin.com/in/pablogomess/) · [GitHub](https://github.com/PabloG-7) · [Email](mailto:pablooliver853@gmail.com)
 
 </div>
 
@@ -17,7 +24,15 @@ Building modern web applications.
 
 ## Sobre
 
-Desenvolvo aplicações modernas com **React** e **TypeScript**, focadas em performance, experiência do usuário e escalabilidade. Tenho experiência na criação de sistemas administrativos, plataformas de autenticação, dashboards e interfaces responsivas integradas com **Supabase** e **Firebase**.
+Desenvolvo aplicações web utilizando **React** e **TypeScript**, com foco em interfaces modernas, performance e escalabilidade.
+
+Tenho experiência na construção de sistemas administrativos, dashboards, autenticação e integrações com **Supabase** e **Firebase**.
+
+<div align="center">
+
+📍 São Paulo, Brazil · 💼 Frontend & Web Systems · 🌎 PT · EN · ES
+
+</div>
 
 ---
 
@@ -50,13 +65,13 @@ Desenvolvo aplicações modernas com **React** e **TypeScript**, focadas em perf
 
 ## Projetos
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [Habitat Imóveis](https://sistema-web-imobiliaria.vercel.app/) | Sistema imobiliário com filtros e busca avançada | Next.js · TS · Tailwind · shadcn/ui |
-| [ATELIER](https://roupas-ateller.vercel.app/) | Loja de moda com animações e scroll suave | React · TS · GSAP · Lenis |
-| [VIRTZ](https://pablog-7.github.io/virtz-site-exemplo/) | E-commerce streetwear com assistente IA | HTML · CSS · JS |
-| [Chilliz](https://pablog-7.github.io/sorvete-site-exemplo/) | Landing page com troca dinâmica de sabores | HTML · CSS · JS · AOS |
-| [Rafael & Sofia](https://pablog-7.github.io/casamento-site-exemplo/) | Site de casamento com RSVP e contador | HTML · CSS · JS |
+|  | Projeto | Descrição | Stack |
+|--|---------|-----------|-------|
+| 🏠 | [Habitat Imóveis](https://sistema-web-imobiliaria.vercel.app/) | Sistema imobiliário com filtros e busca avançada | Next.js · TS · Tailwind · shadcn/ui |
+| 👕 | [ATELIER](https://roupas-ateller.vercel.app/) | Loja de moda com animações e scroll suave | React · TS · GSAP · Lenis |
+| 🛍️ | [VIRTZ](https://pablog-7.github.io/virtz-site-exemplo/) | E-commerce streetwear com assistente IA | HTML · CSS · JS |
+| 🍦 | [Chilliz](https://pablog-7.github.io/sorvete-site-exemplo/) | Landing page com troca dinâmica de sabores | HTML · CSS · JS · AOS |
+| 💍 | [Rafael & Sofia](https://pablog-7.github.io/casamento-site-exemplo/) | Site de casamento com RSVP e contador | HTML · CSS · JS |
 
 > 👉 **[Ver todos os projetos →](https://pablogdev.com.br/#exemplos)**
 
@@ -77,16 +92,12 @@ Desenvolvo aplicações modernas com **React** e **TypeScript**, focadas em perf
 
 ---
 
-## Contato
-
-[Website](https://pablogdev.com.br) · [LinkedIn](https://www.linkedin.com/in/pablogomess/) · [Email](mailto:pablooliver853@gmail.com)
-
----
-
 <div align="center">
 
-*Building digital experiences with clean code.*
+*Turning ideas into digital products.*
 
-</div>
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=140&section=footer" />
+
+</div>

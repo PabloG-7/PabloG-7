@@ -1,22 +1,27 @@
 <div align="center">
 
 <!-- COVER PERSONALIZADA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header" />
+<table>
+  <tr>
+    <td align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); border-radius: 16px;">
+      <br />
+      <h1 style="color: #ffffff; font-size: 48px; margin: 0; letter-spacing: 2px;">Pablo Gomes</h1>
+      <h3 style="color: #fec90f; font-size: 20px; margin: 8px 0; font-weight: 400;">Front-End Developer</h3>
+      <p style="color: #8899aa; font-size: 16px; margin: 4px 0;">
+        React · TypeScript · Next.js
+      </p>
+      <br />
+      <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+        <span style="background: rgba(255,255,255,0.05); padding: 4px 16px; border-radius: 20px; color: #8899aa; font-size: 13px;">Building modern web applications</span>
+      </div>
+      <br />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-# Pablo Gomes
-
-### Front-End Developer  
-**React · TypeScript · Next.js**
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fec90f,100:3b82f6&height=2&section=header" width="60%" />
-
-<br />
-
-[Website](https://pablogdev.com.br) · [LinkedIn](https://www.linkedin.com/in/pablogomess/) · [GitHub](https://github.com/PabloG-7) · [Email](mailto:pablooliver853@gmail.com)
+[Website](https://pablogdev.com.br) · [LinkedIn](https://www.linkedin.com/in/pablogomess/) · [Email](mailto:pablooliver853@gmail.com)
 
 </div>
 
@@ -65,13 +70,13 @@ Tenho experiência na construção de sistemas administrativos, dashboards, aute
 
 ## Projetos
 
-|  | Projeto | Descrição | Stack |
-|--|---------|-----------|-------|
-| 🏠 | [Habitat Imóveis](https://sistema-web-imobiliaria.vercel.app/) | Sistema imobiliário com filtros e busca avançada | Next.js · TS · Tailwind · shadcn/ui |
-| 👕 | [ATELIER](https://roupas-ateller.vercel.app/) | Loja de moda com animações e scroll suave | React · TS · GSAP · Lenis |
-| 🛍️ | [VIRTZ](https://pablog-7.github.io/virtz-site-exemplo/) | E-commerce streetwear com assistente IA | HTML · CSS · JS |
-| 🍦 | [Chilliz](https://pablog-7.github.io/sorvete-site-exemplo/) | Landing page com troca dinâmica de sabores | HTML · CSS · JS · AOS |
-| 💍 | [Rafael & Sofia](https://pablog-7.github.io/casamento-site-exemplo/) | Site de casamento com RSVP e contador | HTML · CSS · JS |
+|  | Projeto | Descrição |
+|--|---------|-----------|
+| 🏠 | [Habitat Imóveis](https://sistema-web-imobiliaria.vercel.app/) | Sistema imobiliário com filtros e busca avançada |
+| 👕 | [ATELIER](https://roupas-ateller.vercel.app/) | Loja de moda com animações e scroll suave |
+| 🛍️ | [VIRTZ](https://pablog-7.github.io/virtz-site-exemplo/) | E-commerce streetwear com assistente IA |
+| 🍦 | [Chilliz](https://pablog-7.github.io/sorvete-site-exemplo/) | Landing page com troca dinâmica de sabores |
+| 💍 | [Rafael & Sofia](https://pablog-7.github.io/casamento-site-exemplo/) | Site de casamento com RSVP e contador |
 
 > 👉 **[Ver todos os projetos →](https://pablogdev.com.br/#exemplos)**
 
@@ -80,10 +85,6 @@ Tenho experiência na construção de sistemas administrativos, dashboards, aute
 ## GitHub
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloG-7&theme=github_dark" width="90%" />
-
-<br /><br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8899aa" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8899aa" width="40%" />
@@ -98,6 +99,6 @@ Tenho experiência na construção de sistemas administrativos, dashboards, aute
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=120&section=footer" />
 
 </div>

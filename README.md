@@ -82,19 +82,6 @@ Tenho experiência na construção de sistemas administrativos, dashboards, aute
 
 ---
 
-## 📫 Onde me encontrar
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-pablogdev.com.br-000c24?style=for-the-badge&logo=vercel&logoColor=white)](https://pablogdev.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogomess/)
-[![Instagram](https://img.shields.io/badge/Instagram-@pablog.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablog.dev/)
-[![Email](https://img.shields.io/badge/Email-pablooliver853%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablooliver853@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 *Turning ideas into digital products.*

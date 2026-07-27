@@ -3,10 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c24,100:0f172a&height=220&section=header&text=Pablo%20Gomes&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h3>Front-End Developer · React & TypeScript</h3>
+<h3>Front-End Developer | React · TypeScript · Next.js</h3>
 
 <p>
-Aplicações web modernas, sistemas personalizados e experiências digitais focadas em performance e usabilidade.
+Desenvolvimento de aplicações web modernas, sistemas personalizados e interfaces focadas em performance, usabilidade e escalabilidade.
 </p>
 
 <p>
@@ -39,11 +39,40 @@ Tenho experiência na construção de sistemas administrativos, dashboards, aute
 
 ---
 
-## ⚙️ Stack Principal
+## ⚙️ Tecnologias
+
+**Core**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,supabase,firebase,git,github,vercel&perline=9" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+</div>
+
+**Database & Backend**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+**Ferramentas**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 </div>
 

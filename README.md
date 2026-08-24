@@ -1,15 +1,15 @@
-# Hi 👋, I'm Pablo Gomes
+# Olá 👋, eu sou Pablo Gomes
 
-🚀 **Full-Stack Developer | React · TypeScript · Node.js**
-🇧🇷 Brazil
+🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**
+🇧🇷 Brasil
 
-I build **modern web applications, custom systems, and digital products**, with a focus on **performance, usability, clean code, and scalable solutions**.
+Desenvolvo **aplicações web modernas, sistemas personalizados e interfaces responsivas**, com foco em **performance, usabilidade, código limpo e boas experiências para o usuário**.
 
-I work mainly with **React, TypeScript, JavaScript, Node.js, Supabase, and MySQL**, developing projects from modern landing pages to complete web systems.
+Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/PabloG-7">
@@ -22,30 +22,30 @@ I work mainly with **React, TypeScript, JavaScript, Node.js, Supabase, and MySQL
     <img src="https://img.shields.io/badge/Website-PabloGDev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
-* ⚛️ Modern web applications with React
-* 🧩 Custom web systems and dashboards
-* 🎨 Responsive interfaces and modern UI
-* ⚡ Performance-focused development
-* 🔐 Authentication and secure APIs
-* 🗄️ Database integration and data management
-* 🔗 APIs and third-party integrations
-* 🤖 AI-powered features and integrations
-* 🌐 Landing pages and business websites
-* 💼 Freelance web development
+* ⚛️ Desenvolvimento de aplicações web com React
+* 🎨 Criação de interfaces modernas e responsivas
+* 🖥️ Desenvolvimento de sites e landing pages
+* 🧩 Interfaces para sistemas e dashboards
+* ⚡ Otimização de performance
+* 🔗 Integração com APIs e serviços externos
+* 🗄️ Integração com bancos de dados
+* 🤖 Integração de recursos com Inteligência Artificial
+* 📱 Desenvolvimento com foco em responsividade
+* 💼 Desenvolvimento de projetos para clientes
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
-### Frontend
+### Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -54,14 +54,14 @@ I work mainly with **React, TypeScript, JavaScript, Node.js, Supabase, and MySQL
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Backend & Database
+### Back-End & Banco de Dados
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### Tools & Platforms
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -71,23 +71,23 @@ I work mainly with **React, TypeScript, JavaScript, Node.js, Supabase, and MySQL
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-* 🏠 **Habitat Imóveis** — Real estate web system with filters and advanced search
-* 👕 **ATELIER** — Fashion e-commerce with animations and smooth scrolling
-* 🛍️ **VIRTZ** — Streetwear e-commerce with AI assistant
-* 🍦 **Chilliz** — Interactive landing page with dynamic flavor selection
-* 💍 **Rafael & Sofia** — Wedding website with RSVP and countdown
-* 🐾 **LuckPet** — Pet-related web application
-* 🧠 **Neon Memory** — Memory game built with React, TypeScript and Supabase
-* 📋 **TaskForge** — Task management application
-* 📊 **PGFlow** — Backend application built with Node.js and Express
+* 🏠 **Habitat Imóveis** — Sistema imobiliário com filtros e busca avançada
+* 👕 **ATELIER** — Loja de moda com animações e scroll suave
+* 🛍️ **VIRTZ** — E-commerce streetwear com assistente de IA
+* 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores
+* 💍 **Rafael & Sofia** — Site de casamento com RSVP e contador
+* 🐾 **LuckPet** — Aplicação web voltada ao segmento pet
+* 🧠 **Neon Memory** — Jogo desenvolvido com React, TypeScript e Supabase
+* 📋 **TaskForge** — Aplicação para gerenciamento de tarefas
+* 📊 **PGFlow** — Aplicação backend desenvolvida com Node.js e Express
 
-👉 **[See all my projects](https://pablogdev.com.br/#exemplos)**
+👉 **[Ver todos os projetos](https://pablogdev.com.br/#exemplos)**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&count_private=true" />
@@ -96,13 +96,14 @@ I work mainly with **React, TypeScript, JavaScript, Node.js, Supabase, and MySQL
 
 ---
 
-## 🚀 My Approach
+## 🚀 Minha abordagem
 
-> *"I believe good software is more than code. It's about turning ideas into useful, well-designed, and reliable digital products."*
+> *"Acredito que desenvolver software vai além de escrever código. É transformar ideias em produtos digitais úteis, funcionais e bem construídos."*
 
-I'm constantly improving my skills, exploring new technologies, and building projects that combine **development, design, and real-world business needs**.
+Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em **projetos reais que unem desenvolvimento, design e necessidades de negócio**.
 
 ---
 
-⭐ If you like my work, consider starring a repository
-🤝 Always open to collaborations, freelance projects, and new opportunities
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório.
+
+🤝 Aberto a colaborações, projetos freelance e novas oportunidades.

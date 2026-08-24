@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Pablo Gomes
 
-🚀 **Desenvolvedor Full-Stack | React · TypeScript · JavaScript · Node.js**
+🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**
 🇧🇷 Brasil
 
 Desenvolvo **aplicações web modernas, sistemas personalizados e interfaces responsivas**, com foco em **performance, usabilidade, código limpo e boas experiências para o usuário**.
 
-Trabalho principalmente com **React, TypeScript, JavaScript, Node.js, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
+Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
 
 ---
 
@@ -15,12 +15,15 @@ Trabalho principalmente com **React, TypeScript, JavaScript, Node.js, HTML e CSS
   <a href="https://github.com/PabloG-7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/pablogomess/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://pablogdev.com.br">
     <img src="https://img.shields.io/badge/PabloG.Dev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
   <a href="mailto:pablooliver853@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -93,8 +96,16 @@ Trabalho principalmente com **React, TypeScript, JavaScript, Node.js, HTML e CSS
 ## 📊 GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight"
+/>
+
 </p>
 
 ---
@@ -109,4 +120,4 @@ Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e t
 
 ⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório.
 
-🤝 Aberto a colaborações, projetos freelance e novas oportunidades.
+🤝 **Aberto a colaborações, projetos freelance e novas oportunidades.**

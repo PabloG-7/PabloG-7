@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Pablo Gomes
 
-🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**
+🚀 **Desenvolvedor Full-Stack | React · TypeScript · JavaScript · Node.js**
 🇧🇷 Brasil
 
 Desenvolvo **aplicações web modernas, sistemas personalizados e interfaces responsivas**, com foco em **performance, usabilidade, código limpo e boas experiências para o usuário**.
 
-Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
+Trabalho principalmente com **React, TypeScript, JavaScript, Node.js, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
 
 ---
 
@@ -56,14 +56,14 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 
 ### Back-End & Banco de Dados
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Ferramentas
 

@@ -19,7 +19,7 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pablogdev.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PabloG.Dev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:pablooliver853@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

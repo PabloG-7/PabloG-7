@@ -13,16 +13,16 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 
 <p align="left">
   <a href="https://github.com/PabloG-7">
-    <img src="https://img.shields.io/badge/GitHub-PabloG--7-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pablogomess/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pablogdev.com.br">
-    <img src="https://img.shields.io/badge/Website-PabloGDev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

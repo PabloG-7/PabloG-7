@@ -57,9 +57,14 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 ### Back-End & Banco de Dados
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+* **APIs REST**
+* **JWT Authentication**
 
 ### Ferramentas
 
@@ -75,15 +80,14 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 
 * 🏠 **Habitat Imóveis** — Sistema imobiliário com filtros e busca avançada
 * 👕 **ATELIER** — Loja de moda com animações e scroll suave
-* 🛍️ **VIRTZ** — E-commerce streetwear com assistente de IA
+* 🍔 **Order.uk** — Plataforma de delivery com carrinho, filtros, múltiplos idiomas e design moderno
 * 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores
 * 💍 **Rafael & Sofia** — Site de casamento com RSVP e contador
-* 🐾 **LuckPet** — Aplicação web voltada ao segmento pet
+* 🏥 **FisioCare** — Landing page para clínica de fisioterapia com foco em conversão e agendamento
 * 🧠 **Neon Memory** — Jogo desenvolvido com React, TypeScript e Supabase
-* 📋 **TaskForge** — Aplicação para gerenciamento de tarefas
 * 📊 **PGFlow** — Aplicação backend desenvolvida com Node.js e Express
 
-👉 **[Ver todos os projetos](https://pablogdev.com.br/#exemplos)**
+👉 [**Ver todos os projetos**](https://pablogdev.com.br/#exemplos)
 
 ---
 

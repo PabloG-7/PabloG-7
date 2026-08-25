@@ -97,15 +97,13 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&count_private=true"
     height="170"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight"
     height="170"
-    alt="Linguagens mais usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight"
   />
 </p>
 

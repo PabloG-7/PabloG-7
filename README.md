@@ -72,16 +72,20 @@ Desenvolvo desde **sites institucionais e landing pages até aplicações intera
 
 ## 🚀 Projetos em Destaque
 
-* 🏠 **Habitat Imóveis** — Sistema imobiliário com filtros e busca avançada
-* 👕 **ATELIER** — Loja de moda com animações e scroll suave
-* 🍔 **Order.uk** — Plataforma de delivery com carrinho, filtros, múltiplos idiomas e design moderno
-* 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores
-* 💍 **Rafael & Sofia** — Site de casamento com RSVP e contador
-* 🏥 **FisioCare** — Landing page para clínica de fisioterapia com foco em conversão e agendamento
-* 🧠 **Neon Memory** — Jogo desenvolvido com React, TypeScript e Supabase
-* 📊 **PGFlow** — Aplicação backend desenvolvida com Node.js e Express
+Uma seleção de projetos que demonstram minha experiência com desenvolvimento web, interfaces interativas e soluções digitais para diferentes segmentos.
 
-👉 [**Ver todos os projetos**](https://pablogdev.com.br/#exemplos)
+- 🏠 **Habitat Imóveis** — Plataforma imobiliária com busca avançada, filtros dinâmicos e navegação intuitiva.
+- 👕 **ATELIER** — Interface de e-commerce de moda com animações, transições suaves e design responsivo.
+- 🍔 **Order.uk** — Aplicação de delivery com carrinho de compras, filtros de produtos e suporte a múltiplos idiomas.
+- 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores, animações e experiência visual personalizada.
+- 💍 **Rafael & Sofia** — Site de casamento com confirmação de presença (RSVP), contagem regressiva e interface personalizada.
+- 🏥 **FisioCare** — Site para clínica de fisioterapia com apresentação de serviços e foco em contato e agendamento.
+- 🧠 **Neon Memory** — Jogo da memória desenvolvido com React, TypeScript e Supabase, incluindo multiplayer e ranking.
+- 📊 **PGFlow** — Aplicação Back-end desenvolvida com Node.js e Express, voltada à construção de APIs e lógica de servidor.
+
+<br>
+
+👉 [**Explorar todos os projetos →**](https://pablogdev.com.br/#exemplos)
 
 ---
 

@@ -36,13 +36,13 @@ Desenvolvo **sites, aplicações web e sistemas personalizados**, combinando tec
 - ⚛️ Desenvolvimento de aplicações web com React e TypeScript
 - 🎨 Criação de interfaces modernas, interativas e responsivas
 - 💻 Desenvolvimento de sites institucionais e landing pages
-- 🧩 Desenvolvimento de sistemas web, dashboards e painéis administrativos
-- 🔗 Integração com APIs REST e serviços externos
-- 🗄️ Integração com bancos de dados e sistemas de autenticação
-- ⚡ Otimização de performance, acessibilidade e experiência do usuário
-- ✨ Implementação de animações e interações com CSS e GSAP
+- 🧩 Desenvolvimento de sistemas web e painéis administrativos
+- 🛒 Criação de interfaces para lojas virtuais e negócios digitais
+- 🔗 Integração com APIs, bancos de dados e serviços externos
+- ✨ Implementação de animações e experiências visuais com CSS e GSAP
 - 🤖 Integração de funcionalidades com Inteligência Artificial
-- 🚀 Publicação e manutenção de aplicações web
+- ⚡ Otimização de performance, usabilidade e responsividade
+- 🚀 Publicação e manutenção de projetos web
 
 ---
 
@@ -108,12 +108,16 @@ Uma seleção de projetos que demonstram minha experiência com desenvolvimento 
 
 ## 🚀 Minha abordagem
 
-> *"Acredito que desenvolver software vai além de escrever código. É transformar ideias em produtos digitais úteis, funcionais e bem construídos."*
+> *"Acredito que desenvolver vai além de escrever código. É transformar ideias em experiências digitais que unem criatividade, tecnologia e funcionalidade."*
 
-Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em **projetos reais que unem desenvolvimento, design e necessidades de negócio**.
+Busco criar projetos que se destacam não apenas pelo visual, mas também pela **qualidade, usabilidade e atenção aos detalhes**.
+
+Por meio da **PabloG.Dev**, desenvolvo soluções digitais para diferentes segmentos, explorando novas tecnologias, aprimorando minhas habilidades e transformando ideias em projetos reais.
 
 ---
 
-⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório.
+⭐ Gostou de algum projeto? Considere deixar uma estrela no repositório.
 
-🤝 **Aberto a colaborações, projetos freelance e novas oportunidades.**
+🤝 **Disponível para novos projetos, parcerias e colaborações.**
+
+🌐 [**Conheça a PabloG.Dev →**](https://pablogdev.com.br)

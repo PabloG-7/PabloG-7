@@ -88,22 +88,34 @@ Uma seleção de projetos que demonstram minha experiência com desenvolvimento 
 ### 🍔 BURGUR — Website de Hamburgueria
 
 <p align="center">
-  <img src="./burguer-mackbook.png" width="49%" alt="BURGUR - Versão Desktop" />
-  <img src="./burguer-cel.png" width="49%" alt="BURGUR - Versão Mobile" />
+  <a href="https://hamburguer-site-exemplo.vercel.app/" target="_blank">
+    <img src="./burguer-mackbook.png" width="49%" alt="BURGUR - Versão Desktop" />
+  </a>
+  <a href="https://hamburguer-site-exemplo.vercel.app/" target="_blank">
+    <img src="./burguer-cel.png" width="49%" alt="BURGUR - Versão Mobile" />
+  </a>
 </p>
 
 Landing page interativa para hamburgueria, com identidade visual personalizada, animações, apresentação de produtos e layout responsivo.
+
+🔗 [**Visualizar projeto →**](https://hamburguer-site-exemplo.vercel.app/)
 
 ---
 
 ### 🧴 NOVE Skincare — Website de Beleza e Cuidados com a Pele
 
 <p align="center">
-  <img src="./noveskincare-mackbook.png" width="49%" alt="NOVE Skincare - Versão Desktop" />
-  <img src="./noveskincare-cel.png" width="49%" alt="NOVE Skincare - Versão Mobile" />
+  <a href="https://nove-skincare.vercel.app/" target="_blank">
+    <img src="./noveskincare-mackbook.png" width="49%" alt="NOVE Skincare - Versão Desktop" />
+  </a>
+  <a href="https://nove-skincare.vercel.app/" target="_blank">
+    <img src="./noveskincare-cel.png" width="49%" alt="NOVE Skincare - Versão Mobile" />
+  </a>
 </p>
 
 Landing page de skincare com identidade visual elegante, apresentação de produtos e experiência responsiva, valorizando a estética e a navegação.
+
+🔗 [**Visualizar projeto →**](https://nove-skincare.vercel.app/)
 
 ---
 

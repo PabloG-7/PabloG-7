@@ -1,197 +1,124 @@
+# Olá 👋, eu sou Pablo Gomes
 
-<div align="center">
+🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**
+🇧🇷 Brasil
 
-# Olá, eu sou Pablo Gomes 👋
+Desenvolvo **aplicações web modernas, sistemas personalizados e interfaces responsivas**, com foco em **performance, usabilidade, código limpo e boas experiências para o usuário**.
 
-### Front-end Developer | React & TypeScript
-
-Desenvolvo interfaces modernas, aplicações web e experiências digitais que unem tecnologia, design e funcionalidade.
-
-Tenho experiência prática com projetos pessoais, demonstrativos e soluções para clientes, desde a criação de interfaces até integrações com APIs, bancos de dados e publicação de aplicações.
-
-<br>
-
-<a href="https://pablogdev.com.br">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
-</a>
-<a href="https://www.linkedin.com/in/pablogomesdev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:pablooliver853@gmail.com">
-  <img src="https://img.shields.io/badge/CONTATO-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PabloG-7&label=VISITAS+AO+PERFIL&color=2563eb&style=flat-square" alt="Visitas ao perfil"/>
-
-</div>
+Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🌐 Onde me encontrar
 
-```typescript
-const pablo = {
-  role: "Front-end Developer",
-  location: "São Paulo, Brasil",
-  education: "Análise e Desenvolvimento de Sistemas",
+<p align="left">
+  <a href="https://github.com/PabloG-7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-  mainStack: [
-    "React",
-    "TypeScript",
-    "JavaScript"
-  ],
+  <a href="https://www.linkedin.com/in/pablogomesdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-  interests: [
-    "Front-end Development",
-    "UI/UX",
-    "Web Applications",
-    "Creative Interfaces"
-  ],
+  <a href="https://pablogdev.com.br">
+    <img src="https://img.shields.io/badge/PabloG.Dev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
-  currentlyLearning: [
-    "React Ecosystem",
-    "Software Architecture",
-    "English"
-  ]
-};
-```
-
-Sou desenvolvedor Front-end e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em React, TypeScript e no ecossistema JavaScript.
-
-Gosto de transformar ideias em experiências digitais funcionais, combinando desenvolvimento, design responsivo e atenção aos detalhes.
-
-Minha experiência inclui aplicações web, sistemas com autenticação, integrações com APIs, landing pages e projetos para clientes.
+  <a href="mailto:pablooliver853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 O que eu faço
 
-<div align="center">
-
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="Front-end"/>
-
-### Back-end & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mysql,mongodb&theme=dark" alt="Back-end e bancos de dados"/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Ferramentas"/>
-
-<br>
-
-**Outras habilidades**
-
-`GSAP` `REST APIs` `React Router` `CSS Modules` `Responsive Design` `JWT` `SEO`
-
-</div>
+* ⚛️ Desenvolvimento de aplicações web com React
+* 🎨 Criação de interfaces modernas e responsivas
+* 🖥️ Desenvolvimento de sites e landing pages
+* 🧩 Interfaces para sistemas e dashboards
+* ⚡ Otimização de performance
+* 🔗 Integração com APIs e serviços externos
+* 🗄️ Integração com bancos de dados
+* 🤖 Integração de recursos com Inteligência Artificial
+* 📱 Desenvolvimento com foco em responsividade
+* 💼 Desenvolvimento de projetos para clientes
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tecnologias
 
-Projetos que demonstram minha experiência com aplicações web, interfaces interativas e soluções digitais.
+### Front-End
 
-### 🧠 Neon Memory
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-Jogo da memória com funcionalidades multiplayer, atualizações em tempo real, ranking e interface responsiva.
+### Back-End & Banco de Dados
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### 🐾 LuckPet
+### Ferramentas
 
-Sistema de agendamentos e gerenciamento de serviços de petshop, com autenticação e painéis para diferentes tipos de usuários.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### 🌐 PabloG.Dev
-
-Portfólio profissional desenvolvido com React e TypeScript, com suporte a múltiplos idiomas, temas e interfaces responsivas.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-[**Ver projeto →**](https://pablogdev.com.br)
-
-### 🩺 Dr. Bruno — Fisioterapia
-
-Site institucional desenvolvido para um profissional da área da saúde, com foco em responsividade, SEO, apresentação de serviços e facilidade de contato.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[**Ver projeto →**](https://drfisiosaude.com.br)
-
-### 🎨 Interfaces & Landing Pages
-
-Desenvolvimento de experiências web para diferentes segmentos, explorando animações, interatividade, design responsivo e interfaces personalizadas.
-
-**Projetos:** Habitat Imóveis · ATELIER · Order.uk · Chilliz · FisioCare · RAEVEN
-
-<div align="center">
-
-<br>
-
-<a href="https://pablogdev.com.br/#exemplos">
-  <img src="https://img.shields.io/badge/EXPLORAR_TODOS_OS_PROJETOS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos"/>
-</a>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projetos em Destaque
 
-<div align="center">
+* 🏠 **Habitat Imóveis** — Sistema imobiliário com filtros e busca avançada
+* 👕 **ATELIER** — Loja de moda com animações e scroll suave
+* 🍔 **Order.uk** — Plataforma de delivery com carrinho, filtros, múltiplos idiomas e design moderno
+* 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores
+* 💍 **Rafael & Sofia** — Site de casamento com RSVP e contador
+* 🏥 **FisioCare** — Landing page para clínica de fisioterapia com foco em conversão e agendamento
+* 🧠 **Neon Memory** — Jogo desenvolvido com React, TypeScript e Supabase
+* 📊 **PGFlow** — Aplicação backend desenvolvida com Node.js e Express
 
-<img height="170" src="https://github-readme-stats-umber-two-82.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9" alt="Estatísticas GitHub"/>
-
-<img height="170" src="https://github-readme-stats-umber-two-82.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Linguagens mais usadas"/>
-
-</div>
-
----
-
-## 💡 Minha abordagem
-
-> Acredito que desenvolver software é transformar ideias em soluções úteis, funcionais e bem construídas.
-
-Busco criar interfaces que proporcionem boas experiências, utilizando código organizado, componentes reutilizáveis e boas práticas de desenvolvimento.
-
-Meu objetivo é continuar evoluindo como desenvolvedor Front-end e contribuir para projetos que gerem valor real.
+👉 [**Ver todos os projetos**](https://pablogdev.com.br/#exemplos)
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 📊 GitHub
 
-<div align="center">
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats-umber-two-82.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+  />
 
-**Aberto a oportunidades em Front-end, estágios, colaborações e projetos freelance.**
+  <img
+    height="170"
+    src="https://github-readme-stats-umber-two-82.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
-<br>
+---
 
-<a href="https://pablogdev.com.br">
-  <img src="https://img.shields.io/badge/Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-<a href="https://www.linkedin.com/in/pablogomesdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:pablooliver853@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+## 🚀 Minha abordagem
 
-<br><br>
+> *"Acredito que desenvolver software vai além de escrever código. É transformar ideias em produtos digitais úteis, funcionais e bem construídos."*
 
-<sub>Feito com dedicação por Pablo Gomes.</sub>
+Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em **projetos reais que unem desenvolvimento, design e necessidades de negócio**.
 
-</div>
+---
+
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela em algum repositório.
+
+🤝 **Aberto a colaborações, projetos freelance e novas oportunidades.**

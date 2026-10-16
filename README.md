@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Pablo Gomes
 
-🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**
+🚀 **Desenvolvedor Front-end | React · TypeScript · JavaScript**  
 🇧🇷 Brasil
 
-Desenvolvo **aplicações web modernas, sistemas personalizados e interfaces responsivas**, com foco em **performance, usabilidade, código limpo e boas experiências para o usuário**.
+Sou desenvolvedor Front-end e estudante de **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de **aplicações web, sistemas personalizados e interfaces modernas e responsivas**.
 
-Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, criando desde sites institucionais e landing pages até interfaces para sistemas e aplicações web.
+Desenvolvo desde **sites institucionais e landing pages até aplicações interativas e sistemas web**, utilizando tecnologias modernas e priorizando **usabilidade, performance, organização do código e experiência do usuário**.
 
 ---
 

@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
   width="800" height="170" viewBox="0 0 800 170">
+
   <rect width="800" height="170" rx="16" fill="#0d1117"/>
+
   <rect x="1" y="1" width="798" height="168" rx="15"
     fill="none" stroke="#30363d" stroke-width="2"/>
 
@@ -13,12 +15,13 @@
   <text x="400" y="100" text-anchor="middle"
     font-family="Arial, sans-serif" font-size="44"
     font-weight="bold" fill="#58a6ff">
-    00d  07h  48m
+    07d  07h  43m
   </text>
 
   <text x="400" y="140" text-anchor="middle"
     font-family="Arial, sans-serif" font-size="15"
     fill="#8b949e">
-    16/10/2026 às 21:00 (Brasília)
+    23/10/2026 às 21:00 (Brasília)
   </text>
+
 </svg>

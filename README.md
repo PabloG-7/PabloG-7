@@ -1,11 +1,13 @@
 # Olá 👋, eu sou Pablo Gomes
 
 🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**  
-🇧🇷 Brasil | 💻 Criador da **PabloG.Dev**
+🌎 Brasil | 💻 Criador da **PabloG.Dev**
 
 Desenvolvo **sites, aplicações web e sistemas personalizados**, combinando tecnologia, criatividade e atenção aos detalhes para criar experiências digitais modernas, funcionais e responsivas.
 
 À frente da **PabloG.Dev**, transformo ideias em soluções digitais, desenvolvendo desde **sites institucionais e landing pages até interfaces interativas e sistemas web**, com foco em **design, performance, usabilidade e experiência do usuário**.
+
+Também desenvolvo **projetos multilíngues em português, inglês e espanhol (PT · EN · ES)**, criando experiências digitais adaptadas a diferentes públicos.
 
 ---
 
@@ -13,19 +15,19 @@ Desenvolvo **sites, aplicações web e sistemas personalizados**, combinando tec
 
 <p align="left">
   <a href="https://github.com/PabloG-7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/pablogomesdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://pablogdev.com.br">
-    <img src="https://img.shields.io/badge/PabloG.Dev-000c24?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PabloG.Dev-000c24?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PabloG.Dev" />
   </a>
 
   <a href="mailto:pablooliver853@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -36,6 +38,7 @@ Desenvolvo **sites, aplicações web e sistemas personalizados**, combinando tec
 - ⚛️ Desenvolvimento de aplicações web com React e TypeScript
 - 🎨 Criação de interfaces modernas, interativas e responsivas
 - 💻 Desenvolvimento de sites institucionais e landing pages
+- 🌎 Desenvolvimento de sites multilíngues (PT · EN · ES)
 - 🧩 Desenvolvimento de sistemas web e painéis administrativos
 - 🛒 Criação de interfaces para lojas virtuais e negócios digitais
 - 🔗 Integração com APIs, bancos de dados e serviços externos

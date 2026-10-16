@@ -85,19 +85,18 @@ Desenvolvo desde **sites institucionais e landing pages até aplicações intera
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="left">
+<p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-umber-two-82.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-umber-two-82.vercel.app/api?username=PabloG-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Estatísticas do GitHub"
   />
-
   <img
     height="170"
-    src="https://github-readme-stats-umber-two-82.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight"
-    alt="Linguagens mais usadas"
+    src="https://github-readme-stats-umber-two-82.vercel.app/api/top-langs/?username=PabloG-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 

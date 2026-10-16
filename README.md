@@ -33,16 +33,16 @@ Trabalho principalmente com **React, TypeScript, JavaScript, HTML e CSS**, crian
 
 ## 🧠 O que eu faço
 
-* ⚛️ Desenvolvimento de aplicações web com React
-* 🎨 Criação de interfaces modernas e responsivas
-* 🖥️ Desenvolvimento de sites e landing pages
-* 🧩 Interfaces para sistemas e dashboards
-* ⚡ Otimização de performance
-* 🔗 Integração com APIs e serviços externos
-* 🗄️ Integração com bancos de dados
-* 🤖 Integração de recursos com Inteligência Artificial
-* 📱 Desenvolvimento com foco em responsividade
-* 💼 Desenvolvimento de projetos para clientes
+- ⚛️ Desenvolvimento de aplicações web com React e TypeScript
+- 🎨 Criação de interfaces modernas, interativas e responsivas
+- 💻 Desenvolvimento de sites institucionais e landing pages
+- 🧩 Desenvolvimento de sistemas web, dashboards e painéis administrativos
+- 🔗 Integração com APIs REST e serviços externos
+- 🗄️ Integração com bancos de dados e sistemas de autenticação
+- ⚡ Otimização de performance, acessibilidade e experiência do usuário
+- ✨ Implementação de animações e interações com CSS e GSAP
+- 🤖 Integração de funcionalidades com Inteligência Artificial
+- 🚀 Publicação e manutenção de aplicações web
 
 ---
 

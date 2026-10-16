@@ -1,0 +1,36 @@
+
+name: Atualizar contador de projetos
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-countdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Atualizar contador
+        run: python scripts/update_countdown.py
+
+      - name: Salvar contador
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/project-countdown.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar contador de projetos"
+            git push
+          fi

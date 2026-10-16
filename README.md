@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Pablo Gomes
 
-🚀 **Desenvolvedor Front-end | React · TypeScript · JavaScript**  
-🇧🇷 Brasil
+🚀 **Desenvolvedor Front-End | React · TypeScript · JavaScript**  
+🇧🇷 Brasil | 💻 Criador da **PabloG.Dev**
 
-Sou desenvolvedor Front-end e estudante de **Análise e Desenvolvimento de Sistemas**, com experiência prática na criação de **aplicações web, sistemas personalizados e interfaces modernas e responsivas**.
+Desenvolvo **sites, aplicações web e sistemas personalizados**, combinando tecnologia, criatividade e atenção aos detalhes para criar experiências digitais modernas, funcionais e responsivas.
 
-Desenvolvo desde **sites institucionais e landing pages até aplicações interativas e sistemas web**, utilizando tecnologias modernas e priorizando **usabilidade, performance, organização do código e experiência do usuário**.
+À frente da **PabloG.Dev**, transformo ideias em soluções digitais, desenvolvendo desde **sites institucionais e landing pages até interfaces interativas e sistemas web**, com foco em **design, performance, usabilidade e experiência do usuário**.
 
 ---
 

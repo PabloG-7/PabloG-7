@@ -77,6 +77,18 @@ Também desenvolvo **projetos multilíngues em português, inglês e espanhol (P
 
 Uma seleção de projetos que demonstram minha experiência com desenvolvimento web, interfaces interativas e soluções digitais para diferentes segmentos.
 
+### ⏳ Próxima atualização dos projetos
+
+<p align="center">
+  <img src="./assets/project-countdown.svg" alt="Contagem regressiva para a próxima atualização dos projetos" />
+</p>
+
+<p align="center">
+  <sub>🔄 Renovação semanal • Sexta-feira às 21h (Brasília)</sub>
+</p>
+
+---
+
 ### 🍔 BURGUR — Website de Hamburgueria
 
 <p align="center">

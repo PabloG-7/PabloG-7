@@ -77,14 +77,16 @@ Também desenvolvo **projetos multilíngues em português, inglês e espanhol (P
 
 Uma seleção de projetos que demonstram minha experiência com desenvolvimento web, interfaces interativas e soluções digitais para diferentes segmentos.
 
-- 🏠 **Habitat Imóveis** — Plataforma imobiliária com busca avançada, filtros dinâmicos e navegação intuitiva.
-- 👕 **ATELIER** — Interface de e-commerce de moda com animações, transições suaves e design responsivo.
-- 🍔 **Order.uk** — Aplicação de delivery com carrinho de compras, filtros de produtos e suporte a múltiplos idiomas.
-- 🍦 **Chilliz** — Landing page interativa com seleção dinâmica de sabores, animações e experiência visual personalizada.
-- 💍 **Rafael & Sofia** — Site de casamento com confirmação de presença (RSVP), contagem regressiva e interface personalizada.
-- 🏥 **FisioCare** — Site para clínica de fisioterapia com apresentação de serviços e foco em contato e agendamento.
-- 🧠 **Neon Memory** — Jogo da memória desenvolvido com React, TypeScript e Supabase, incluindo multiplayer e ranking.
-- 📊 **PGFlow** — Aplicação Back-end desenvolvida com Node.js e Express, voltada à construção de APIs e lógica de servidor.
+### 🍔 BURGUR — Website de Hamburgueria
+
+<p align="center">
+  <img src="./burguer-mackbook.png" width="49%" alt="BURGUR - Versão Desktop" />
+  <img src="./burguer-cel.png" width="49%" alt="BURGUR - Versão Mobile" />
+</p>
+
+Landing page interativa para hamburgueria, com identidade visual personalizada, animações, apresentação de produtos e layout responsivo.
+
+---
 
 <br>
 

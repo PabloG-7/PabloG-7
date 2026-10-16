@@ -88,6 +88,17 @@ Landing page interativa para hamburgueria, com identidade visual personalizada, 
 
 ---
 
+### 🧴 NOVE Skincare — Website de Beleza e Cuidados com a Pele
+
+<p align="center">
+  <img src="./noveskincare-mackbook.png" width="49%" alt="NOVE Skincare - Versão Desktop" />
+  <img src="./noveskincare-cel.png" width="49%" alt="NOVE Skincare - Versão Mobile" />
+</p>
+
+Landing page de skincare com identidade visual elegante, apresentação de produtos e experiência responsiva, valorizando a estética e a navegação.
+
+---
+
 <br>
 
 👉 [**Explorar todos os projetos →**](https://pablogdev.com.br/#exemplos)
